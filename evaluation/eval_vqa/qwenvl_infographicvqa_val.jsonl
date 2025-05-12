@@ -1,0 +1,2801 @@
+{"predict": "Pinterest", "gt": ["pinterest"]}
+{"predict": "Restaurants, Interior design, Wedding venues", "gt": ["interior design, restaurants, wedding venues", "restaurants, wedding venues, interior design", "wedding venues, restaurants, interior design", "restaurants, interior design, wedding venues", "wedding venues, interior design, restaurants", "interior design, wedding venues, restaurants"]}
+{"predict": "LinkedIn, Facebook", "gt": ["linkedin, facebook", "facebook, linkedin"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "Twitter, Facebook", "gt": ["twitter, facebook", "facebook, twitter"]}
+{"predict": "Bakeries & Coffee Shops, Travel agencies, Art museums", "gt": ["travel agencies, bakeries & coffee shops, art museums", "travel agencies, art museums, bakeries & coffee shops", "art museums, bakeries & coffee shops, travel agencies", "bakeries & coffee shops, art museums, travel agencies", "bakeries & coffee shops, travel agencies, art museums", "art museums, travel agencies, bakeries & coffee shops"]}
+{"predict": "Friendster", "gt": ["friendster"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "2004", "gt": ["2004"]}
+{"predict": "YouTube", "gt": ["youtube"]}
+{"predict": "Snapchat", "gt": ["picaboo"]}
+{"predict": "2003", "gt": ["2003"]}
+{"predict": "Medium", "gt": ["medium"]}
+{"predict": "High", "gt": ["high"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Instagram", "gt": ["instagram"]}
+{"predict": "2006", "gt": ["2006"]}
+{"predict": "500 Thousand", "gt": ["500 thousand"]}
+{"predict": "100", "gt": ["100"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "red", "gt": ["red"]}
+{"predict": "Instagram", "gt": ["instagram"]}
+{"predict": "Objective, Promise, Personality", "gt": ["organization, audience, offering", "offering, audience, organization", "audience, organization, offering", "audience, offering, organization", "offering, organization, audience", "organization, offering, audience"]}
+{"predict": "Benefits", "gt": ["features, elevator pitch, benefits", "features, benefits, elevator pitch", "elevator pitch, benefits, features", "benefits, features, elevator pitch", "benefits, elevator pitch, features", "elevator pitch, features, benefits"]}
+{"predict": "Core Values", "gt": ["culture, core values, mission statement", "culture, mission statement, core values", "core values, culture, mission statement", "core values, mission statement, culture", "mission statement, core values, culture", "mission statement, culture, core values"]}
+{"predict": "40%", "gt": ["40%", "40"]}
+{"predict": "The U.S.", "gt": ["u.s.", "the u.s."]}
+{"predict": "U.K.", "gt": ["u.k.", "the u.k."]}
+{"predict": "90%", "gt": ["90%", "90"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "New Jersey", "gt": ["north dakota"]}
+{"predict": "New Jersey", "gt": ["new jersey"]}
+{"predict": "Europe", "gt": ["europe"]}
+{"predict": "40%", "gt": ["40%", "40"]}
+{"predict": "Wisconsin", "gt": ["district of columbia"]}
+{"predict": "21 million", "gt": ["21 million", "21 million people"]}
+{"predict": "45 million", "gt": ["45 million"]}
+{"predict": "54%", "gt": ["54", "54%"]}
+{"predict": "87.9%", "gt": ["87.9", "87.9%"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "53%", "gt": ["53%", "53"]}
+{"predict": "49%", "gt": ["49", "49%"]}
+{"predict": "Nigeria", "gt": ["1,646,212"]}
+{"predict": "women", "gt": ["men"]}
+{"predict": "46%", "gt": ["46", "46%"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "unhappy", "gt": ["unhappy"]}
+{"predict": "Assign a Value to Each Action", "gt": ["2", "assign a value to each action", "2 assign a value to each action"]}
+{"predict": "Calculate the cost of your efforts", "gt": ["3", "3 calculate the cost of your efforts", "calculate the cost of your efforts"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "4", "gt": ["4", "determine the roi", "4 determine the roi"]}
+{"predict": "Asia", "gt": ["asia"]}
+{"predict": "South America", "gt": ["north america"]}
+{"predict": "15.43%", "gt": ["15.43%"]}
+{"predict": "53%", "gt": ["53%", "53"]}
+{"predict": "73%", "gt": ["73%", "73"]}
+{"predict": "92%", "gt": ["92%", "92"]}
+{"predict": "58%", "gt": ["58%", "58"]}
+{"predict": "Alphabet", "gt": ["alphabet", "alphabet inc."]}
+{"predict": "The Buffalo News", "gt": ["the buffalo news"]}
+{"predict": "AT&T", "gt": ["at&t inc.", "at&t"]}
+{"predict": "Cox", "gt": ["ajc"]}
+{"predict": "Emerson Collective", "gt": ["emerson collective"]}
+{"predict": "The Washington Post", "gt": ["nbc news", "cnbc"]}
+{"predict": "USA TODAY", "gt": ["usa today"]}
+{"predict": "Verizon", "gt": ["verizon communications", "verizon"]}
+{"predict": "Health and education", "gt": ["employment and economics"]}
+{"predict": "72%", "gt": ["72%", "72"]}
+{"predict": "24th", "gt": ["1st", "1", "jun 1st"]}
+{"predict": "87%", "gt": ["87%", "87"]}
+{"predict": "1st", "gt": ["9th", "9", "jun 9th"]}
+{"predict": "44%", "gt": ["44%", "44"]}
+{"predict": "Health and education", "gt": ["civil unrest"]}
+{"predict": "24th", "gt": ["4th", "4", "jun 4th"]}
+{"predict": "Tennis season", "gt": ["libyan unrest"]}
+{"predict": "Greek financial crisis", "gt": ["greek financial crisis"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "Ecoli outbreak in Europe", "gt": ["ecoli outbreak in europe"]}
+{"predict": "Christopher S. Capponi", "gt": ["christopher s. gaffney"]}
+{"predict": "Ma Huateng", "gt": ["ma huateng"]}
+{"predict": "Lachlan Murdoch", "gt": ["lachlan k. murdoch"]}
+{"predict": "5", "gt": ["3"]}
+{"predict": "Robert Thomson", "gt": ["steven r. swartz"]}
+{"predict": "Verizon Media", "gt": ["john stankey"]}
+{"predict": "Paul Brokenshire", "gt": ["paul zwillenberg"]}
+{"predict": "Justin Bieber", "gt": ["justin bieber and kim kardashian"]}
+{"predict": "97%", "gt": ["72", "72%"]}
+{"predict": "Evan Williams", "gt": ["evan williams", "twitter co-founder evan williams"]}
+{"predict": "6%", "gt": ["0.0% to 1.9%"]}
+{"predict": "New Hampshire", "gt": ["new hampshire"]}
+{"predict": "6 million", "gt": ["6 million"]}
+{"predict": "$66,660", "gt": ["$66,660", "66,660"]}
+{"predict": "42%", "gt": ["32%"]}
+{"predict": "$40,190", "gt": ["$40,190", "40,190"]}
+{"predict": "39%", "gt": ["39%"]}
+{"predict": "40%", "gt": ["40%"]}
+{"predict": "Veterinary Technologist and Technician", "gt": ["home health aide"]}
+{"predict": "Medical Scientist", "gt": ["medical scientist"]}
+{"predict": "16%", "gt": ["16%", "16"]}
+{"predict": "37", "gt": ["37"]}
+{"predict": "79%", "gt": ["79%", "79"]}
+{"predict": "37", "gt": ["31"]}
+{"predict": "84%", "gt": ["84%", "84"]}
+{"predict": "67%", "gt": ["67%", "67"]}
+{"predict": "76", "gt": ["321"]}
+{"predict": "31%", "gt": ["31%", "31"]}
+{"predict": "37", "gt": ["132"]}
+{"predict": "132", "gt": ["90"]}
+{"predict": "Geoff Boycott", "gt": ["syd gregory"]}
+{"predict": "249", "gt": ["249"]}
+{"predict": "Pietersen", "gt": ["pietersen"]}
+{"predict": "Butler", "gt": ["buttler"]}
+{"predict": "Root", "gt": ["root"]}
+{"predict": "Collingwood", "gt": ["collingwood"]}
+{"predict": "4186", "gt": ["4146"]}
+{"predict": "Listening to music", "gt": ["listening to music"]}
+{"predict": "Drinking tea or coffee", "gt": ["drinking tea or coffee"]}
+{"predict": "Metal", "gt": ["metal"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Batteries", "gt": ["batteries"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "Reduces stress", "gt": ["social perception"]}
+{"predict": "Promotes relaxation and sleep", "gt": ["emotional intelligence"]}
+{"predict": "Organic", "gt": ["organic"]}
+{"predict": "Clothes", "gt": ["clothes"]}
+{"predict": "ocean pollution", "gt": ["ocean pollution"]}
+{"predict": "Make sure it's a print book.", "gt": ["characters, sub-plots, main plot", "main plot, sub-plots, characters", "sub-plots, main plot, characters", "characters, main plot, sub-plots", "main plot, characters, sub-plots", "sub-plots, characters, main plot"]}
+{"predict": "ozone layer protection", "gt": ["ozone layer protection, global warming", "global warming, ozone layer protection"]}
+{"predict": "6.3%", "gt": ["6.3%", "6.3"]}
+{"predict": "Glass", "gt": ["glass"]}
+{"predict": "12", "gt": ["12"]}
+{"predict": "Plastic", "gt": ["plastic"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "8.3%", "gt": ["8.3%", "8.3"]}
+{"predict": "14", "gt": ["14"]}
+{"predict": "21", "gt": ["21"]}
+{"predict": "49", "gt": ["49"]}
+{"predict": "100K", "gt": ["100k"]}
+{"predict": "Usman", "gt": ["usman"]}
+{"predict": "UAE", "gt": ["uae"]}
+{"predict": "14", "gt": ["14"]}
+{"predict": "Australia", "gt": ["australia"]}
+{"predict": "21%", "gt": ["21%", "21"]}
+{"predict": "5%", "gt": ["5%", "5"]}
+{"predict": "71%", "gt": ["71%", "71"]}
+{"predict": "3%", "gt": ["3%", "3"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "61%", "gt": ["61", "61%"]}
+{"predict": "4", "gt": ["5"]}
+{"predict": "42%", "gt": ["42%", "42"]}
+{"predict": "Manufacturing - Nondurable Goods, Government, Other Services", "gt": ["government, other services, manufacturing - nondurable goods", "other services, manufacturing - nondurable goods, government", "other services, government, manufacturing - nondurable goods", "manufacturing - nondurable goods, government, other services", "government, manufacturing - nondurable goods, other services", "manufacturing - nondurable goods, other services, government"]}
+{"predict": "Reduces stress", "gt": ["eases muscle tension"]}
+{"predict": "+19%", "gt": ["+19%", "19%"]}
+{"predict": "Worst Jobs Outlook (0%)", "gt": ["0%"]}
+{"predict": "Good", "gt": ["good"]}
+{"predict": "6", "gt": ["5"]}
+{"predict": "Florida, New Jersey", "gt": ["hawaii, florida", "florida, hawaii"]}
+{"predict": "Los Angeles", "gt": ["los angeles"]}
+{"predict": "Albany", "gt": ["albany"]}
+{"predict": "Good", "gt": ["good"]}
+{"predict": "11,500", "gt": ["11,500", "11500"]}
+{"predict": "Leisure & hospitality", "gt": ["leisure & hospitality"]}
+{"predict": "Lillee", "gt": ["vinod kambli"]}
+{"predict": "119", "gt": ["duck", "0"]}
+{"predict": "2012", "gt": ["2001"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "37", "gt": ["36"]}
+{"predict": "Mysteries and thrillers", "gt": ["mysteries and thrillers"]}
+{"predict": "24", "gt": ["13", "13 years"]}
+{"predict": "51", "gt": ["78"]}
+{"predict": "Ramesh", "gt": ["ramesh", "ramesh tendulkar"]}
+{"predict": "17%", "gt": ["17", "17%"]}
+{"predict": "35%", "gt": ["35", "35%"]}
+{"predict": "35%", "gt": ["13%", "13"]}
+{"predict": "38%", "gt": ["15%", "15"]}
+{"predict": "89%", "gt": ["79", "79%"]}
+{"predict": "Erapalli Prasanna", "gt": ["erapalli prasanna"]}
+{"predict": "-5.7", "gt": ["-5.7"]}
+{"predict": "6.1", "gt": ["6.1"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "5", "gt": ["4"]}
+{"predict": "Africa, +30%", "gt": ["india, 39.7"]}
+{"predict": "Asia, Africa, South America", "gt": ["south america, africa, asia", "africa, south america, asia", "africa, asia, south america", "south america, asia, africa", "asia, africa, south america", "asia, south america, africa"]}
+{"predict": "North America, Europe, Oceania", "gt": ["north america, oceania, europe", "europe, oceania, north america", "oceania, north america, europe", "europe, north america, oceania", "north america, europe, oceania", "oceania, europe, north america"]}
+{"predict": "5", "gt": ["3"]}
+{"predict": "Pakistan, Bangladesh", "gt": ["zim, bang, pak", "bangladesh, pakistan, zimbabwe", "pakistan, zimbabwe, bangladesh", "zimbabwe, pakistan, bangladesh", "pak, bang, zim", "pakistan, bangladesh, zimbabwe", "bang, zim, pak", "zim, pak, bang", "pak, zim, bang", "zimbabwe, bangladesh, pakistan", "bang, pak, zim", "bangladesh, zimbabwe, pakistan"]}
+{"predict": "+6", "gt": ["+6", "6"]}
+{"predict": "-11", "gt": ["-11"]}
+{"predict": "Usman Ghani", "gt": ["usman ghani"]}
+{"predict": "49", "gt": ["49"]}
+{"predict": "-4.2", "gt": ["-4.2"]}
+{"predict": "517", "gt": ["517"]}
+{"predict": "26", "gt": ["26"]}
+{"predict": "109.9", "gt": ["109.9"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "14", "gt": ["14", "14 teams"]}
+{"predict": "China", "gt": ["china, 109.0", "china, 109"]}
+{"predict": "2", "gt": ["2", "2 countries"]}
+{"predict": "26.5", "gt": ["26.5"]}
+{"predict": "29.5", "gt": ["29.5"]}
+{"predict": "China", "gt": ["japan"]}
+{"predict": "45.8%", "gt": ["45.8%"]}
+{"predict": "5.47", "gt": ["5.8"]}
+{"predict": "47", "gt": ["95"]}
+{"predict": "Saeed Ajmal", "gt": ["saeed ajmal"]}
+{"predict": "50.87", "gt": ["50.87", "$50.87"]}
+{"predict": "Saeed Ajmal, Rangana Herath", "gt": ["saeed ajmal, rangana herath", "rangana herath, saeed ajmal"]}
+{"predict": "14", "gt": ["14"]}
+{"predict": "Australia", "gt": ["australia"]}
+{"predict": "43", "gt": ["43 years"]}
+{"predict": "44 days", "gt": ["44 days"]}
+{"predict": "132.60", "gt": ["132.60", "132.6"]}
+{"predict": "73*", "gt": ["73*", "73"]}
+{"predict": "Sri Lanka", "gt": ["sri lanka"]}
+{"predict": "5-18", "gt": ["5-18"]}
+{"predict": "109*", "gt": ["109*", "109"]}
+{"predict": "28.33", "gt": ["28.33"]}
+{"predict": "MS Dhoni", "gt": ["ms dhoni"]}
+{"predict": "6.63", "gt": ["6.63"]}
+{"predict": "Jeffrey Vandersay", "gt": ["jeffrey vandersay"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "2 April 2011", "gt": ["2 april 2011"]}
+{"predict": "14", "gt": ["14"]}
+{"predict": "271/4", "gt": ["277/4", "277"]}
+{"predict": "Sri Lanka", "gt": ["sri lanka"]}
+{"predict": "The Adventures of Huckleberry Finn, The Great Gatsby", "gt": ["the chosen, all other nights", "all other nights, the chosen"]}
+{"predict": "New Zealand", "gt": ["australia"]}
+{"predict": "New Zealand", "gt": ["pakistan"]}
+{"predict": "231/4", "gt": ["217"]}
+{"predict": "Sourav Ganguly", "gt": ["sourav ganguly"]}
+{"predict": "67", "gt": ["45"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "67.4%", "gt": ["67.4", "67.4%"]}
+{"predict": "27.1%", "gt": ["27.1", "27.1%"]}
+{"predict": "651K", "gt": ["651k"]}
+{"predict": "Virat Kohli", "gt": ["virat kohli"]}
+{"predict": "Arab countries", "gt": ["arab countries"]}
+{"predict": "West Bank", "gt": ["west bank"]}
+{"predict": "72.9%", "gt": ["72.9", "72.9%"]}
+{"predict": "42.6%", "gt": ["32.6", "32.6%"]}
+{"predict": "92.6%", "gt": ["94.5", "94.5%"]}
+{"predict": "15-Mar-15", "gt": ["14-mar-15"]}
+{"predict": "Sushant Singh Rajput", "gt": ["sushant singh rajput"]}
+{"predict": "Sakshi", "gt": ["sakshi"]}
+{"predict": "Ziva", "gt": ["ziva"]}
+{"predict": "1977, Ranchi", "gt": ["july 7, 1981 at ranchi, jharkhand", "july 7, 1981 at ranchi", "on july 7, 1981 at ranchi, jharkhand", "on july 7, 1981 at ranchi"]}
+{"predict": "DAV Jawahar Vidya Mandir", "gt": ["dav jawahar vidya mandir"]}
+{"predict": "Football coach", "gt": ["football coach", "his football coach"]}
+{"predict": "Goalkeeper", "gt": ["goalkeeper"]}
+{"predict": "Commando Cricket Club", "gt": ["commando cricket club", "the commando cricket club"]}
+{"predict": "Vinoo Mankad Under-16 Championship", "gt": ["vinoo mankad under-16 championship"]}
+{"predict": "2007", "gt": ["2007"]}
+{"predict": "2006", "gt": ["2008"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "Gary Alexander", "gt": ["gary alexander"]}
+{"predict": "Mahendra Singh Dhoni", "gt": ["dhoni", "mahendra singh dhoni"]}
+{"predict": "15", "gt": ["15"]}
+{"predict": "Mahendra Singh Dhoni", "gt": ["dhoni", "mahendra singh dhoni", "m.s. dhoni"]}
+{"predict": "Travis Dowlin", "gt": ["travis dowlin"]}
+{"predict": "27", "gt": ["107"]}
+{"predict": "60", "gt": ["27"]}
+{"predict": "Rajiv Gandhi Khel Ratna", "gt": ["rajiv gandhi khel ratna"]}
+{"predict": "2008", "gt": ["2008"]}
+{"predict": "Biratnagar", "gt": ["biratnagar"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "orange", "gt": ["orange"]}
+{"predict": "Gandaki Province", "gt": ["gandaki", "gandaki province"]}
+{"predict": "Ghorahi", "gt": ["dhangadhi"]}
+{"predict": "Biratnagar", "gt": ["birendra nagar"]}
+{"predict": "Biratnagar", "gt": ["kathmandu"]}
+{"predict": "Mahendra Singh Dhoni", "gt": ["dhoni", "m.s. dhoni"]}
+{"predict": "Biratnagar", "gt": ["ghorahi"]}
+{"predict": "Biratnagar", "gt": ["birgunj"]}
+{"predict": "571", "gt": ["571"]}
+{"predict": "1080", "gt": ["1080"]}
+{"predict": "473", "gt": ["473"]}
+{"predict": "319", "gt": ["319"]}
+{"predict": "16", "gt": ["17"]}
+{"predict": "4", "gt": ["5"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "Waseem Akram & Ramiz Raja", "gt": ["waseem akram & ramiz raja"]}
+{"predict": "12", "gt": ["12"]}
+{"predict": "$140,000", "gt": ["us $ 140,000", "$ 140,000"]}
+{"predict": "US $ 50,000", "gt": ["us $ 70,000", "$ 70,000"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Platinum, Diamond, Gold", "gt": ["gold, diamond, platinum", "diamond, gold, platinum", "diamond, platinum, gold", "gold, platinum, diamond", "platinum, gold, diamond", "platinum, diamond, gold"]}
+{"predict": "The Pillars of the Earth", "gt": ["mason & dixon, maus", "mazon & dixon, maus", "maus, mason & dixon", "maus, mazon & dixon"]}
+{"predict": "Melodrama: Great Expectations, The Picture of Dorian Gray", "gt": ["great expectations, jane eyre", "jane eyre, great expectations"]}
+{"predict": "The Silence of the Lambs, The Girl with the Dragon Tattoo", "gt": ["strangers on a train, when the bough breaks", "when the bough breaks, strangers on a train"]}
+{"predict": "The Pillars of the Earth, The Red Line", "gt": ["tree of smoke, the thin red line", "the thin red line, tree of smoke"]}
+{"predict": "The Lord of the Rings, The Hobbit", "gt": ["vice versa, discworld", "discworld, vice versa"]}
+{"predict": "H.G. Wells", "gt": ["wells, finney", "finney, wells"]}
+{"predict": "The Comics (Fables)", "gt": ["a modest proposal, the screwtape letters", "the screwtape letters, a modest proposal"]}
+{"predict": "The Hobbit", "gt": ["the worm auroboros, conan the barbarians", "conan the barbarian, the worm ouroboros", "conan the barbarians, the worm auroboros", "the worm ouroboros, conan the barbarian"]}
+{"predict": "Karl Marx", "gt": ["karl marx"]}
+{"predict": "John Mill", "gt": ["john mill", "john stuart mill"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "1970, 1974", "gt": ["1970, 1973", "1973, 1970"]}
+{"predict": "The Siege of Krishnapur, Troubles", "gt": ["troubles, the siege of krishnapur", "the siege of krishnapur, troubles"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "2009, 2012", "gt": ["2012, 2009", "2009, 2012"]}
+{"predict": "Wolf Hall, Bring Up the Bodies", "gt": ["wolf hall, bring up the bodies", "bring up the bodies, wolf hall"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "1994, 2001", "gt": ["1988, 2001", "2001, 1988"]}
+{"predict": "Universal values, Freedom", "gt": ["equality, nationalism, china model", "china model, equality, nationalism", "china model, nationalism, equality", "nationalism, equality, china model", "nationalism, china model, equality", "equality, china model, nationalism"]}
+{"predict": "Liberalism, Universal Values, Freedom", "gt": ["universal values, freedom, liberalism", "universal values, liberalism, freedom", "freedom, liberalism, universal values", "freedom, universal values, liberalism", "liberalism, freedom, universal values", "liberalism, universal values, freedom"]}
+{"predict": "True History of the Kelly Gang, Oscar and Lucinda", "gt": ["true history of the kelly gang, oscar and lucinda", "oscar and lucinda, true history of the kelly gang"]}
+{"predict": "Leftism", "gt": ["direct democracy", "participatory democracy"]}
+{"predict": "Rightism", "gt": ["representative democracy"]}
+{"predict": "in the third person", "gt": ["in the third person"]}
+{"predict": "an illustration", "gt": ["an illustration"]}
+{"predict": "an illustration, a photo", "gt": ["an illustration, a photo, text only", "a photo, text only, an illustration", "an illustration, text only, a photo", "text only, a photo, an illustration", "text only, an illustration, a photo", "a photo, an illustration, text only"]}
+{"predict": "Welfare State", "gt": ["welfare state"]}
+{"predict": "Federer Express", "gt": ["federer express"]}
+{"predict": "Free Market", "gt": ["free market"]}
+{"predict": "in the third person, in the first person", "gt": ["in the third person, in the first person", "in the first person, in the third person"]}
+{"predict": "Hard", "gt": ["clay"]}
+{"predict": "59,803", "gt": ["59,803", "59803"]}
+{"predict": "Right", "gt": ["right", "rightism"]}
+{"predict": "Grass", "gt": ["grass, carpet", "carpet, grass"]}
+{"predict": "Blue States", "gt": ["blue states"]}
+{"predict": "Red States", "gt": ["red states"]}
+{"predict": "West Virginia, North Dakota, South Dakota", "gt": ["west virginia, north dakota, south dakota", "north dakota, west virginia, south dakota", "north dakota, south dakota, west virginia", "south dakota, north dakota, west virginia", "west virginia, south dakota, north dakota", "south dakota, west virginia, north dakota"]}
+{"predict": "87.63", "gt": ["$87.63"]}
+{"predict": "27%", "gt": ["27", "27%"]}
+{"predict": "Democratic", "gt": ["democrat"]}
+{"predict": "722", "gt": ["722"]}
+{"predict": "Federer", "gt": ["federer", "roger federer"]}
+{"predict": "7", "gt": ["2"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "288", "gt": ["310.5"]}
+{"predict": "1", "gt": ["1 career grand slam"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "2", "gt": ["51"]}
+{"predict": "1584", "gt": ["1584"]}
+{"predict": "500", "gt": ["5400"]}
+{"predict": "17,000,000", "gt": ["+17,000,000"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "Nadal", "gt": ["rafael nadal", "nadal"]}
+{"predict": "Executive, Legislative, Judicial", "gt": ["judicial, executive, legislative", "legislative, judicial, executive", "executive, judicial, legislative", "judicial, legislative, executive", "executive, legislative, judicial", "legislative, executive, judicial"]}
+{"predict": "4 years", "gt": ["every 4 years", "held every 4 years", "4 years"]}
+{"predict": "1932", "gt": ["1932"]}
+{"predict": "1963", "gt": ["1963"]}
+{"predict": "1995", "gt": ["1995"]}
+{"predict": "2011", "gt": ["2011"]}
+{"predict": "2017", "gt": ["2017"]}
+{"predict": "Judicial", "gt": ["judicial"]}
+{"predict": "Bandung", "gt": ["bandung"]}
+{"predict": "Jakarta", "gt": ["jakarta"]}
+{"predict": "Industry", "gt": ["industry"]}
+{"predict": "Aged 0 - 14 years", "gt": ["65 years and over", "aged 65 years and over"]}
+{"predict": "Singapore", "gt": ["germany"]}
+{"predict": "30", "gt": ["30", "30%"]}
+{"predict": "46", "gt": ["46", "46 hours"]}
+{"predict": "Organization Reputation", "gt": ["pay"]}
+{"predict": "Recognition", "gt": ["innovation"]}
+{"predict": "Mars has two moons", "gt": ["mars has two moons"]}
+{"predict": "142", "gt": ["142"]}
+{"predict": "Twenty Thousand Leagues Under the Sea", "gt": ["twenty thousand leagues under the sea"]}
+{"predict": "Martin Caidin", "gt": ["martin caidin"]}
+{"predict": "Bionic Limbs", "gt": ["bionic limbs"]}
+{"predict": "2013", "gt": ["2013"]}
+{"predict": "Stranger in a Strange Land", "gt": ["stranger in a strange land"]}
+{"predict": "The Age of Intelligent Machines", "gt": ["stand on zanzibar"]}
+{"predict": "5", "gt": ["8"]}
+{"predict": "The City and the Stars", "gt": ["stand on zanzibar"]}
+{"predict": "Looking Backwards", "gt": ["looking backwards"]}
+{"predict": "A Fall of Moondust", "gt": ["stand on zanzibar"]}
+{"predict": "John Brunner", "gt": ["john brunner"]}
+{"predict": "25-35", "gt": ["18-25"]}
+{"predict": "4.03%", "gt": ["26", "26%"]}
+{"predict": "Learn a Skill", "gt": ["learn a skill"]}
+{"predict": "1%", "gt": ["1", "1%"]}
+{"predict": "Mood-enhancing drugs, Genetic engineering", "gt": ["genetic engineering, mood-enhancing drugs", "mood-enhancing drugs, genetic engineering"]}
+{"predict": "Automatic motion-sensing doors", "gt": ["automatic motion-sensing doors"]}
+{"predict": "8.7%", "gt": ["10.4%", "10.4"]}
+{"predict": "6.4 Million", "gt": ["6.6 million"]}
+{"predict": "10.7%", "gt": ["11.6%", "11.6"]}
+{"predict": "Internet of Things", "gt": ["internet of things"]}
+{"predict": "0-4", "gt": ["0-4"]}
+{"predict": "85+", "gt": ["85+"]}
+{"predict": "85+", "gt": ["35-39"]}
+{"predict": "85+", "gt": ["80-84"]}
+{"predict": "5", "gt": ["10"]}
+{"predict": "85+", "gt": ["85+"]}
+{"predict": "85%", "gt": ["85", "85%"]}
+{"predict": "22,1%", "gt": ["22,1%", "22,1", "22.1%", "22.1"]}
+{"predict": "79,9%", "gt": ["79,9", "79,9%", "79.9", "79.9%"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "accessibility: remove barriers", "gt": ["access to technical and vocational training"]}
+{"predict": "13,8%", "gt": ["13,8%", "13,8", "13.8%", "13.8"]}
+{"predict": "20%", "gt": ["20%", "20"]}
+{"predict": "9,1%", "gt": ["9,1", "9,1%", "9.1%", "9.1"]}
+{"predict": "14,4%", "gt": ["14,4", "14,4%", "14.4%", "14.4"]}
+{"predict": "22,1%", "gt": ["22,1%", "22.1%", "22.1", "22,1"]}
+{"predict": "Kohli", "gt": ["kohli"]}
+{"predict": "10", "gt": ["6"]}
+{"predict": "6", "gt": ["10"]}
+{"predict": "4", "gt": ["10"]}
+{"predict": "6", "gt": ["5"]}
+{"predict": "6", "gt": ["3"]}
+{"predict": "least equal", "gt": ["least equal"]}
+{"predict": "most equal", "gt": ["least equal"]}
+{"predict": "most equal", "gt": ["most equal"]}
+{"predict": "most equal", "gt": ["most equal"]}
+{"predict": "71%", "gt": ["71", "71%"]}
+{"predict": "5%", "gt": ["100", "100%"]}
+{"predict": "3%", "gt": ["11", "11%"]}
+{"predict": "0.9", "gt": ["0.9"]}
+{"predict": "6%", "gt": ["7", "7%"]}
+{"predict": "3", "gt": ["1"]}
+{"predict": "See what's over the horizon", "gt": ["see what's over the horizon"]}
+{"predict": "imagery, human voice, trending topics", "gt": ["trending topics, human voice, imagery", "human voice, trending topics, imagery", "human voice, imagery, trending topics", "trending topics, imagery, human voice", "imagery, trending topics, human voice", "imagery, human voice, trending topics"]}
+{"predict": "26", "gt": ["46"]}
+{"predict": "Low Wages", "gt": ["low wages"]}
+{"predict": "59%", "gt": ["59%", "59"]}
+{"predict": "1.02 - 3.81", "gt": ["1.02 - 3.81", "1. 02 - 3. 81"]}
+{"predict": "46.14% - 100.00%", "gt": ["46. 14% - 100. 00%", "46.14% - 100.00%"]}
+{"predict": "71.8%", "gt": ["71.8%", "71.8"]}
+{"predict": "Asia", "gt": ["asia"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "81%", "gt": ["81%", "81"]}
+{"predict": "80%", "gt": ["80%", "80"]}
+{"predict": "Monday", "gt": ["monday"]}
+{"predict": "Bold Colors", "gt": ["bold colors, menswear", "menswear, bold colors"]}
+{"predict": "Bold Colors", "gt": ["statement necklaces, bold colors, leather", "leather, bold colors, statement necklaces", "statement necklaces, leather, bold colors", "bold colors, leather, statement necklaces", "bold colors, statement necklaces, leather", "leather, statement necklaces, bold colors"]}
+{"predict": "6.5%", "gt": ["6.5%", "6.5"]}
+{"predict": "2009, 2010, 2011", "gt": ["2009, 2011", "2011, 2009"]}
+{"predict": "50.6%", "gt": ["50.6%", "50.6"]}
+{"predict": "2.4%", "gt": ["2.4%", "2.4"]}
+{"predict": "96.8%", "gt": ["96.8%", "96.8"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "40.9", "gt": ["$39.9 million", "39.9 million"]}
+{"predict": "$10.5", "gt": ["$10.5 million", "10.5 million"]}
+{"predict": "67.3%", "gt": ["67.3%", "67.3"]}
+{"predict": "24.0%", "gt": ["24.0%", "24%", "24", "24.0"]}
+{"predict": "Higher maritime institutions", "gt": ["higher maritime institutions"]}
+{"predict": "@StatPoland", "gt": ["@statpoland"]}
+{"predict": "@GlownyUrzadStatystyczny", "gt": ["@glownyurzadstatystyczny"]}
+{"predict": "@GlownyUrzadStatystyczny", "gt": ["glowny urzad statystyczny"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "0-5%", "gt": ["0-5%"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "Redbridge, Lewisham", "gt": ["redbridge, lewisham", "lewisham, redbridge"]}
+{"predict": "Cambridgeshire", "gt": ["highland"]}
+{"predict": "Social Media Marketing", "gt": ["social media marketing"]}
+{"predict": "Social Media", "gt": ["social media"]}
+{"predict": "Email Marketing", "gt": ["email marketing"]}
+{"predict": "Email Marketing", "gt": ["email marketing"]}
+{"predict": "Social media channels", "gt": ["social media channels"]}
+{"predict": "17%", "gt": ["17", "17%"]}
+{"predict": "Social Media Marketing", "gt": ["social media marketing", "social media"]}
+{"predict": "2.88", "gt": ["2.38"]}
+{"predict": "2.88", "gt": ["2.88 children", "2.88"]}
+{"predict": "78%", "gt": ["78%", "78"]}
+{"predict": "2.16%", "gt": ["5%", "5"]}
+{"predict": "Family Planning, Sustainable Living", "gt": ["family planning, sustainable living", "sustainable living, family planning"]}
+{"predict": "Food, energy, water", "gt": ["food, energy, water", "energy, food, water", "water, food, energy", "food, water, energy", "energy, water, food", "water, energy, food"]}
+{"predict": "2/3", "gt": ["2/3"]}
+{"predict": "38%", "gt": ["38%"]}
+{"predict": "100 acres per minute", "gt": ["100 acres per minute", "one football field per second"]}
+{"predict": "70%", "gt": ["70%+", "70"]}
+{"predict": "Cars, Increased power consumption", "gt": ["cars, increased power consumption", "increased power consumption, cars"]}
+{"predict": "44%", "gt": ["44%", "44"]}
+{"predict": "too many ads", "gt": ["too many ads"]}
+{"predict": "too much drama", "gt": ["too much drama"]}
+{"predict": "27%", "gt": ["17%", "17"]}
+{"predict": "17%", "gt": ["29%", "29"]}
+{"predict": "WhatsApp", "gt": ["whatsapp"]}
+{"predict": "oil, water", "gt": ["oil, water"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "Snapchat", "gt": ["snapchat"]}
+{"predict": "2011", "gt": ["2011"]}
+{"predict": "2/3", "gt": ["2/3"]}
+{"predict": "3 billion", "gt": ["3 billion", "3 billion people"]}
+{"predict": "6 Billion", "gt": ["6 billion"]}
+{"predict": "7 Billion", "gt": ["7 billion"]}
+{"predict": "78%", "gt": ["78%", "78"]}
+{"predict": "1 BILLION", "gt": ["1 billion"]}
+{"predict": "4.5 billion", "gt": ["4.5 billion"]}
+{"predict": "1 person", "gt": ["2"]}
+{"predict": "3", "gt": ["6"]}
+{"predict": "6", "gt": ["4"]}
+{"predict": "79%", "gt": ["79%", "79"]}
+{"predict": "9.6 billion", "gt": ["9.6 billion"]}
+{"predict": "79%", "gt": ["79%", "79"]}
+{"predict": "4%", "gt": ["4%"]}
+{"predict": "2%", "gt": ["2%"]}
+{"predict": "25%", "gt": ["25%"]}
+{"predict": "3%", "gt": ["3%"]}
+{"predict": "6%", "gt": ["6%"]}
+{"predict": "19%", "gt": ["18%"]}
+{"predict": "20%", "gt": ["20%"]}
+{"predict": "41%", "gt": ["41%", "41"]}
+{"predict": "47%", "gt": ["47%", "47"]}
+{"predict": "10%", "gt": ["10%"]}
+{"predict": "18-29", "gt": ["18-29"]}
+{"predict": "37%", "gt": ["37%"]}
+{"predict": "9%", "gt": ["9%", "9"]}
+{"predict": "68%", "gt": ["68%", "68"]}
+{"predict": "46%", "gt": ["46%"]}
+{"predict": "27%", "gt": ["27%", "27"]}
+{"predict": "65+", "gt": ["65+"]}
+{"predict": "Control, Tweener, Power", "gt": ["power, control, tweener", "control, power, tweener", "tweener frame, power frame, control frame", "power frame, tweener frame, control frame", "tweener, power, control", "control, tweener, power", "control frame, power frame, tweener frame", "power frame, control frame, tweener frame", "tweener, control, power", "tweener frame, control frame, power frame", "power, tweener, control", "control frame, tweener frame, power frame"]}
+{"predict": "Control", "gt": ["control frame", "control"]}
+{"predict": "Power", "gt": ["power", "power frame"]}
+{"predict": "Facebook, YouTube", "gt": ["facebook, youtube", "youtube, facebook"]}
+{"predict": "72%", "gt": ["72%"]}
+{"predict": "Video", "gt": ["video, infographics, images", "video, images, infographics", "infographics, images, video", "images, infographics, video", "images, video, infographics", "infographics, video, images"]}
+{"predict": "16%", "gt": ["16%", "16"]}
+{"predict": "26%", "gt": ["25%", "25"]}
+{"predict": "Personas", "gt": ["social media personas", "social media"]}
+{"predict": "25%", "gt": ["25%", "25"]}
+{"predict": "57%", "gt": ["57%"]}
+{"predict": "24.6%", "gt": ["24.6%", "24.6"]}
+{"predict": "8%", "gt": ["8%", "8"]}
+{"predict": "62.5%", "gt": ["59.9%", "59.9"]}
+{"predict": "16.5%", "gt": ["16.5%", "16.5"]}
+{"predict": "48.9%", "gt": ["69.3%", "69.3"]}
+{"predict": "13%", "gt": ["13%", "13"]}
+{"predict": "68.9%", "gt": ["35.8%", "35.8"]}
+{"predict": "Tweener", "gt": ["tweener", "tweener frame"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Control", "gt": ["control frame", "control"]}
+{"predict": "Open Pattern, Dense Pattern", "gt": ["open, dense", "dense, open", "dense pattern, open pattern", "open pattern, dense pattern"]}
+{"predict": "4 3/8\"", "gt": ["4 3/8\""]}
+{"predict": "1.5H", "gt": ["1.5h"]}
+{"predict": "27\"", "gt": ["27\""]}
+{"predict": "Sweet Corn", "gt": ["sweet corn"]}
+{"predict": "Flour Corn", "gt": ["flour corn"]}
+{"predict": "Pod Corn", "gt": ["pod corn"]}
+{"predict": "Popcorn", "gt": ["popcorn"]}
+{"predict": "Native Americans", "gt": ["native americans"]}
+{"predict": "Dent Corn", "gt": ["dent corn"]}
+{"predict": "16.8 hrs", "gt": ["16.8"]}
+{"predict": "Centeotl and Chicomecoatl", "gt": ["centeotl and chicomecoatl"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "250 million", "gt": ["175 million"]}
+{"predict": "Glue", "gt": ["milk"]}
+{"predict": "Google+", "gt": ["twitter"]}
+{"predict": "75 million", "gt": ["75 million"]}
+{"predict": "The Corn Palace", "gt": ["the corn palace", "the corn palace in mitchell", "the corn palace in mitchell, south dakota"]}
+{"predict": "LinkedIn", "gt": ["tumblr", "t"]}
+{"predict": "39%", "gt": ["39%", "39"]}
+{"predict": "71%", "gt": ["71%", "71"]}
+{"predict": "The Cornhusker", "gt": ["the cornhusker"]}
+{"predict": "83%", "gt": ["83%", "83"]}
+{"predict": "48%", "gt": ["48%", "48"]}
+{"predict": "52%", "gt": ["52%", "52"]}
+{"predict": "34%", "gt": ["34%", "34"]}
+{"predict": "18-22", "gt": ["36-49"]}
+{"predict": "7%", "gt": ["7%", "7"]}
+{"predict": "15%", "gt": ["15%", "15"]}
+{"predict": "50-65", "gt": ["18-22"]}
+{"predict": "18%", "gt": ["18%", "18"]}
+{"predict": "35%", "gt": ["35%", "35"]}
+{"predict": "5", "gt": ["4"]}
+{"predict": "ChangePasswords", "gt": ["change passwords", "change passwords using a different computer"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "19%", "gt": ["19%", "19"]}
+{"predict": "Open Pattern", "gt": ["open pattern"]}
+{"predict": "18x20", "gt": ["dense pattern"]}
+{"predict": "Tweener", "gt": ["tweener"]}
+{"predict": "78%", "gt": ["78%", "78"]}
+{"predict": "Head, Beam, Grip", "gt": ["head, grip, beam", "head, beam, grip", "beam, head, grip", "grip, head, beam", "grip, beam, head", "beam, grip, head"]}
+{"predict": "Gucci", "gt": ["zara"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Gucci", "gt": ["gucci"]}
+{"predict": "69%", "gt": ["69%", "69"]}
+{"predict": "MID, MIDPLUS, OVERSIZE", "gt": ["mid, oversize, midplus", "mid, midplus, oversize", "oversize, midplus, mid", "midplus, oversize, mid", "midplus, mid, oversize", "oversize, mid, midplus"]}
+{"predict": "Microsoft Windows", "gt": ["microsoft windows"]}
+{"predict": "Red Bull", "gt": ["red bull"]}
+{"predict": "79%", "gt": ["79%", "79"]}
+{"predict": "Facial masks", "gt": ["facial masks"]}
+{"predict": "Queen Elizabeth ii", "gt": ["queen elizabeth ii"]}
+{"predict": "22 mm, 23-27 mm, 28 mm", "gt": ["23-27 mm, 28 mm, 22 mm", "28 mm, 23-27 mm, 22 mm", "23-27 mm, 22 mm, 28 mm", "22 mm, 28 mm, 23-27 mm", "22 mm, 23-27 mm, 28 mm", "28 mm, 22 mm, 23-27 mm"]}
+{"predict": "Consulting", "gt": ["professional services, communications", "communications, professional services"]}
+{"predict": "81%", "gt": ["81%", "81"]}
+{"predict": "Bank of Canada", "gt": ["bank of canada"]}
+{"predict": "Google+", "gt": ["tagged"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "Club Penguin", "gt": ["disney club penguin", "club penguin"]}
+{"predict": "71%", "gt": ["71%", "71"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "15 million", "gt": ["10.4 million", "10.4 million registered users"]}
+{"predict": "62%", "gt": ["62%", "62"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Hippocampus", "gt": ["hippocampus", "the hippocampus"]}
+{"predict": "Married people", "gt": ["married people"]}
+{"predict": "24%", "gt": ["48%", "48"]}
+{"predict": "Education / Science", "gt": ["education / science"]}
+{"predict": "negative", "gt": ["negative", "negative words"]}
+{"predict": "10%", "gt": ["16", "16%"]}
+{"predict": "Australia", "gt": ["australia"]}
+{"predict": "green", "gt": ["yellow"]}
+{"predict": "82%", "gt": ["82%", "82"]}
+{"predict": "Fish", "gt": ["fish, bananas, milk", "bananas, fish, milk", "milk, bananas, fish", "bananas, milk, fish", "milk, fish, bananas", "fish, milk, bananas"]}
+{"predict": "60%", "gt": ["69", "69%"]}
+{"predict": "Mexico", "gt": ["mexico"]}
+{"predict": "Mexico, Spain, Brazil", "gt": ["brazil, spain, mexico", "mexico, brazil, spain", "brazil, mexico, spain", "mexico, spain, brazil", "spain, brazil, mexico", "spain, mexico, brazil"]}
+{"predict": "Business Manager", "gt": ["business management"]}
+{"predict": "43%", "gt": ["43%", "43"]}
+{"predict": "26%", "gt": ["26%", "26"]}
+{"predict": "Relationships", "gt": ["relationships"]}
+{"predict": "Life Purpose", "gt": ["life purpose"]}
+{"predict": "60%", "gt": ["66", "66%"]}
+{"predict": "Financial Services", "gt": ["government"]}
+{"predict": "Waning Gibbous", "gt": ["waning gibbous"]}
+{"predict": "Healthcare & Medical", "gt": ["communications"]}
+{"predict": "New Moon", "gt": ["new moon"]}
+{"predict": "First Quarter", "gt": ["new moon"]}
+{"predict": "44%", "gt": ["44%", "44"]}
+{"predict": "44%", "gt": ["44%", "44"]}
+{"predict": "600+ MILLION", "gt": ["600+ million"]}
+{"predict": "Waxing Gibbous", "gt": ["waxing gibbous"]}
+{"predict": "Waxing Gibbous", "gt": ["waxing crescent"]}
+{"predict": "96%", "gt": ["16%", "16"]}
+{"predict": "400 THOUSAND", "gt": ["400 thousand"]}
+{"predict": "29", "gt": ["29"]}
+{"predict": "pink", "gt": ["pink"]}
+{"predict": "69%", "gt": ["69%"]}
+{"predict": "59%", "gt": ["59%"]}
+{"predict": "Corporate Blogs", "gt": ["corporate blogs", "corporate blog"]}
+{"predict": "New York Knicks, Los Angeles Lakers", "gt": ["new york knicks, los angeles lakers", "los angeles lakers, new york knicks"]}
+{"predict": "$3.30B", "gt": ["$3.30b"]}
+{"predict": "0.09", "gt": ["0.06"]}
+{"predict": "New York Yankees", "gt": ["new york yankees, los angeles dodgers", "los angeles dodgers, new york yankees"]}
+{"predict": "$3.7B", "gt": ["$3.70b"]}
+{"predict": "$2.20B", "gt": ["$2.20b"]}
+{"predict": "$1.93B", "gt": ["$1.93b"]}
+{"predict": "NBA", "gt": ["nba"]}
+{"predict": "MLB", "gt": ["mlb"]}
+{"predict": "NFL", "gt": ["nfl"]}
+{"predict": "Discover ideas", "gt": ["discover ideas"]}
+{"predict": "Female", "gt": ["female"]}
+{"predict": "Chicago Bulls", "gt": ["chicago bears"]}
+{"predict": "$2.7B", "gt": ["$2.70b"]}
+{"predict": "DALLAS COWBOYS, SAN FRANCISCO 49ERS, NEW ENGLAND PATRIOTS", "gt": ["dallas cowboys, new york giants, new england patriots", "new england patriots, dallas cowboys, new york giants", "new england patriots, new york giants, dallas cowboys", "new york giants, new england patriots, dallas cowboys", "dallas cowboys, new england patriots, new york giants", "new york giants, dallas cowboys, new england patriots"]}
+{"predict": "Share photos and stories", "gt": ["share photos and stories"]}
+{"predict": "Microblogging", "gt": ["micro blogging"]}
+{"predict": "Older than 35", "gt": ["older than 35"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "320 million", "gt": ["320 million"]}
+{"predict": "$2.6B", "gt": ["$1.5b"]}
+{"predict": "29%", "gt": ["29", "29%"]}
+{"predict": "MLB", "gt": ["mlb"]}
+{"predict": "380 million", "gt": ["380 million"]}
+{"predict": "Dallas Cowboys", "gt": ["dallas cowboys"]}
+{"predict": "ESPN", "gt": ["espn"]}
+{"predict": "Medium", "gt": ["medium"]}
+{"predict": "Philadelphia Eagles", "gt": ["philadelphia eagles"]}
+{"predict": "Comprehensive", "gt": ["comprehensive"]}
+{"predict": "Medium", "gt": ["medium"]}
+{"predict": "San Francisco Crime Classification", "gt": ["denoising dirty documents"]}
+{"predict": "San Francisco Crime Classification", "gt": ["facebook recruiting - human or bot"]}
+{"predict": "31%", "gt": ["31", "31%"]}
+{"predict": "9%", "gt": ["9", "9%"]}
+{"predict": "37%", "gt": ["37", "37%"]}
+{"predict": "24%", "gt": ["13%", "13"]}
+{"predict": "33%", "gt": ["33", "33%"]}
+{"predict": "29%", "gt": ["29%", "29"]}
+{"predict": "38%", "gt": ["15%", "15"]}
+{"predict": "1984", "gt": ["1920"]}
+{"predict": "Data Scientists", "gt": ["data scientists"]}
+{"predict": "Data Scientists", "gt": ["data scientists"]}
+{"predict": "1984 2008", "gt": ["1904, 1900", "1900, 1904"]}
+{"predict": "1984", "gt": ["1924"]}
+{"predict": "17%", "gt": ["17", "17%"]}
+{"predict": "Data Scientists", "gt": ["data scientists"]}
+{"predict": "9%", "gt": ["1", "1%"]}
+{"predict": "1900", "gt": ["1900"]}
+{"predict": "1900", "gt": ["1900"]}
+{"predict": "Sailing", "gt": ["1908"]}
+{"predict": "2008", "gt": ["2008"]}
+{"predict": "2", "gt": ["4"]}
+{"predict": "5", "gt": ["21"]}
+{"predict": "2008", "gt": ["2016"]}
+{"predict": "Needs to escape", "gt": ["needs to escape"]}
+{"predict": "Sensual", "gt": ["is sensual"]}
+{"predict": "Loving and honest", "gt": ["loving and honest"]}
+{"predict": "Shy person", "gt": ["shy person"]}
+{"predict": "Frustrated", "gt": ["frustrated"]}
+{"predict": "Romantic person", "gt": ["romantic person"]}
+{"predict": "Introvert", "gt": ["introvert"]}
+{"predict": "Needs guidance", "gt": ["needs guidance"]}
+{"predict": "Sensitive", "gt": ["sensitive"]}
+{"predict": "In a fulfilling relationship", "gt": ["in a fulfilling relationship"]}
+{"predict": "8.8 million", "gt": ["8.8 million"]}
+{"predict": "1.2%", "gt": ["1.2%"]}
+{"predict": "2 hours 56 mins", "gt": ["2 hours 56 mins"]}
+{"predict": "4.61", "gt": ["4.61"]}
+{"predict": "WhatsApp", "gt": ["whatsapp"]}
+{"predict": "35 million", "gt": ["35 million", "more than 35 million"]}
+{"predict": "231.7 MILLION", "gt": ["231.7 million"]}
+{"predict": "25,000", "gt": ["25,000"]}
+{"predict": "95%", "gt": ["95%", "95"]}
+{"predict": "Infographics", "gt": ["infographics"]}
+{"predict": "37%", "gt": ["37%"]}
+{"predict": "41%", "gt": ["41%"]}
+{"predict": "30%", "gt": ["30%", "30"]}
+{"predict": "LinkedIn", "gt": ["linkedin, $119 million"]}
+{"predict": "56%", "gt": ["56%"]}
+{"predict": "48%", "gt": ["48%"]}
+{"predict": "Marketing", "gt": ["marketing"]}
+{"predict": "@PatStew", "gt": ["@sirpatstew"]}
+{"predict": "14", "gt": ["11"]}
+{"predict": "2 minutes", "gt": ["2 minutes"]}
+{"predict": "257 minutes", "gt": ["357 minutes"]}
+{"predict": "12", "gt": ["12"]}
+{"predict": "Northrop Grumman", "gt": ["northrop grumman"]}
+{"predict": "MQ-9 Reaper", "gt": ["mq-9 reaper"]}
+{"predict": "2002", "gt": ["2002"]}
+{"predict": "\"Beast of Kandahar\"", "gt": ["\"beast of kandahar\"", "beast of kandahar"]}
+{"predict": "RQ-11B Raven", "gt": ["rq-11b raven"]}
+{"predict": "MQ-9 Reaper", "gt": ["rq-4b global hawk"]}
+{"predict": "500 ft (152 m)", "gt": ["500 ft", "152 m"]}
+{"predict": "55 ft", "gt": ["16.8 m", "55 ft"]}
+{"predict": "450 lb (204 kg)", "gt": ["450 lb", "204 kg"]}
+{"predict": "24 ft (7.3 m)", "gt": ["fuselage length", "fuselage"]}
+{"predict": "7.45 mi (12 km)", "gt": ["12 km", "7.45 mi"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "RQ-4B Global Hawk, RQ-11B Raven", "gt": ["rq-4b global hawk, mq-8 fire scout, rq-11b raven", "rq-11b raven, rq-4b global hawk, mq-8 fire scout", "rq-11b raven, mq-8 fire scout, rq-4b global hawk", "mq-8 fire scout, rq-4b global hawk, rq-11b raven", "rq-4b global hawk, rq-11b raven, mq-8 fire scout", "mq-8 fire scout, rq-11b raven, rq-4b global hawk"]}
+{"predict": "camera and thermal imager", "gt": ["camera and thermal imager"]}
+{"predict": "27.5 ft (8.4 m)", "gt": ["27.5 ft", "8.4 m"]}
+{"predict": "MQ-9 Reaper", "gt": ["rq-4b global hawk"]}
+{"predict": "MQ-9 Reaper", "gt": ["mq-9 reaper"]}
+{"predict": "10,000 miles", "gt": ["16,112 km", "10,000 mi"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "PLASMA MEMBRANE", "gt": ["nucleolus"]}
+{"predict": "Nucleus", "gt": ["mitochondrion"]}
+{"predict": "$105,594", "gt": ["$105,594", "$105594"]}
+{"predict": "Data visualization developer", "gt": ["data visualization developer"]}
+{"predict": "2", "gt": ["5"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "job satisfaction", "gt": ["job satisfaction"]}
+{"predict": "33%", "gt": ["33%", "33"]}
+{"predict": "Data Scientist", "gt": ["data scientist"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "IBM SPSS", "gt": ["sql"]}
+{"predict": "IBM SPSS", "gt": ["ms excel"]}
+{"predict": "USA", "gt": ["usa"]}
+{"predict": "Soybean oil", "gt": ["vegetable oil"]}
+{"predict": "Texas", "gt": ["texas"]}
+{"predict": "5.5 times", "gt": ["33%", "33"]}
+{"predict": "57%", "gt": ["57%", "57"]}
+{"predict": "33%", "gt": ["33%", "33"]}
+{"predict": "\"Share\", \"Comment\"", "gt": ["\"share\" rate, \"comment\" rate", "\"comment\" rate, \"share\" rate"]}
+{"predict": "25%", "gt": ["25%", "25"]}
+{"predict": "11+", "gt": ["1-2"]}
+{"predict": "3-10", "gt": ["3-10"]}
+{"predict": "9-12", "gt": ["after 8 p.m. and before 8 a.m."]}
+{"predict": "Surfing/Skiing", "gt": ["surfing/skiing"]}
+{"predict": "152", "gt": ["152"]}
+{"predict": "100", "gt": ["100"]}
+{"predict": "Michael Gorman", "gt": ["michael gorman"]}
+{"predict": "15.4", "gt": ["15.4"]}
+{"predict": "Library of Congress", "gt": ["the library of congress", "library of congress"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Solid, liquid, gas", "gt": ["liquid, gas, solid", "gas, solid, liquid", "solid, liquid, gas", "solid, gas, liquid", "gas, liquid, solid", "liquid, solid, gas"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "Germany, Austria-Hungary, Bulgaria", "gt": ["german empire, austria-hungary", "austria-hungary, german empire"]}
+{"predict": "Organic Chemistry", "gt": ["organic chemistry"]}
+{"predict": "14", "gt": ["3"]}
+{"predict": "Biochemistry", "gt": ["biochemistry"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "56%", "gt": ["56%", "56"]}
+{"predict": "70%", "gt": ["70%", "70"]}
+{"predict": "73%", "gt": ["73%", "73"]}
+{"predict": "56%", "gt": ["75%", "75"]}
+{"predict": "75%", "gt": ["75%", "75"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "40%", "gt": ["40%", "40"]}
+{"predict": "89%", "gt": ["89%"]}
+{"predict": "39%", "gt": ["39%", "39"]}
+{"predict": "80%", "gt": ["80%"]}
+{"predict": "52%", "gt": ["52%"]}
+{"predict": "44%", "gt": ["44%"]}
+{"predict": "42%", "gt": ["42%", "42"]}
+{"predict": "Banking", "gt": ["banking"]}
+{"predict": "10%", "gt": ["10%", "10"]}
+{"predict": "18%", "gt": ["18%"]}
+{"predict": "28%", "gt": ["28%", "28"]}
+{"predict": "33%", "gt": ["33%"]}
+{"predict": "Bangalore", "gt": ["bangalore"]}
+{"predict": "24%", "gt": ["34%"]}
+{"predict": "10%", "gt": ["10%", "10"]}
+{"predict": "7%", "gt": ["7%", "7", "[7%]"]}
+{"predict": "20%", "gt": ["20%", "20"]}
+{"predict": "2", "gt": ["3"]}
+{"predict": "Swimming", "gt": ["swimming"]}
+{"predict": "Throat", "gt": ["throat"]}
+{"predict": "Emory University", "gt": ["emory university", "emory university, usa"]}
+{"predict": "Chemistry", "gt": ["chemistry", "mater of science, chemistry"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "American woodcock", "gt": ["american woodcock"]}
+{"predict": "2016", "gt": ["01/2012", "2012"]}
+{"predict": "Common Raven", "gt": ["common raven"]}
+{"predict": "2007-2011", "gt": ["10/2005 - 11/2011"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "50%", "gt": ["50%", "50"]}
+{"predict": "4", "gt": ["4", "4 grants"]}
+{"predict": "1993", "gt": ["1993"]}
+{"predict": "7%", "gt": ["3%"]}
+{"predict": "54%", "gt": ["34%"]}
+{"predict": "Michael Gorman", "gt": ["michael gorman"]}
+{"predict": "64%", "gt": ["64%"]}
+{"predict": "16", "gt": ["16"]}
+{"predict": "Dewey Decimal Classification, Library of Congress Classification, Colon Classification", "gt": ["library of congress classification, colon classification, dewey decimal classification", "colon classification, dewey decimal classification, library of congress classification", "dewey decimal classification, colon classification, library of congress classification", "library of congress classification, dewey decimal classification, colon classification", "colon classification, library of congress classification, dewey decimal classification", "dewey decimal classification, library of congress classification, colon classification"]}
+{"predict": "76%", "gt": ["76%", "76"]}
+{"predict": "22%", "gt": ["22", "22%"]}
+{"predict": "88,000", "gt": ["48,000"]}
+{"predict": "Dr. S.R. Ranganathan", "gt": ["dr. shiyali ramamrita ranganathan", "dr. s.r. ranganathan", "shiyali ramamrita ranganathan"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "21 MIN", "gt": ["21 min"]}
+{"predict": "LinkedIn", "gt": ["twitter"]}
+{"predict": "Myspace", "gt": ["myspace"]}
+{"predict": "298,700", "gt": ["298,700"]}
+{"predict": "62%", "gt": ["62", "62%"]}
+{"predict": "67%", "gt": ["67%", "67"]}
+{"predict": "84%", "gt": ["84%", "84"]}
+{"predict": "85%", "gt": ["85", "85%"]}
+{"predict": "Twitter, Facebook, Pinterest", "gt": ["facebook, twitter, pinterest", "facebook, pinterest, twitter", "twitter, pinterest, facebook", "twitter, facebook, pinterest", "pinterest, facebook, twitter", "pinterest, twitter, facebook"]}
+{"predict": "Google+, LinkedIn", "gt": ["youtube, linkedin, google+", "youtube, google+, linkedin", "linkedin, youtube, google+", "linkedin, google+, youtube", "google+, linkedin, youtube", "google+, youtube, linkedin"]}
+{"predict": "919,700", "gt": ["919,700"]}
+{"predict": "440", "gt": ["440"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "4", "gt": ["6"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "25%", "gt": ["25%", "25", "1 in 4"]}
+{"predict": "10%", "gt": ["10%", "10", "1 in 10"]}
+{"predict": "46%", "gt": ["46", "46%"]}
+{"predict": "30%", "gt": ["30%", "30"]}
+{"predict": "25%", "gt": ["17", "17%"]}
+{"predict": "13", "gt": ["13"]}
+{"predict": "50%", "gt": ["50%", "50"]}
+{"predict": "Local Social Club", "gt": ["religious group"]}
+{"predict": "2740", "gt": ["2,740"]}
+{"predict": "20%", "gt": ["20%", "20"]}
+{"predict": "5%", "gt": ["fewer than 5%"]}
+{"predict": "Local youth group", "gt": ["local social club"]}
+{"predict": "20%", "gt": ["20%", "20"]}
+{"predict": "0", "gt": ["0"]}
+{"predict": "41%", "gt": ["41%", "41"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "18%", "gt": ["18%", "18"]}
+{"predict": "26.2%", "gt": ["26.2%", "26.2"]}
+{"predict": "67.5%", "gt": ["67.5%", "67.5"]}
+{"predict": "90%", "gt": ["90%", "90"]}
+{"predict": "50% to 95%", "gt": ["50% to 95%", "50% to 95% chance"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "1998", "gt": ["1998"]}
+{"predict": "1998", "gt": ["1997"]}
+{"predict": "98.6%", "gt": ["98.6%"]}
+{"predict": "SixDegrees.com", "gt": ["sixdegrees.com"]}
+{"predict": "61%", "gt": ["61%"]}
+{"predict": "30-45 years old", "gt": ["30-45 years old"]}
+{"predict": "Twitter", "gt": ["facebook"]}
+{"predict": "2000", "gt": ["2000"]}
+{"predict": "Homicide", "gt": ["homicide"]}
+{"predict": "delivery drivers, healthcare professionals, public service workers", "gt": ["healthcare professionals, public service workers, delivery drivers", "healthcare professionals, delivery drivers, public service workers", "public service workers, healthcare professionals, delivery drivers", "delivery drivers, healthcare professionals, public service workers", "public service workers, delivery drivers, healthcare professionals", "delivery drivers, public service workers, healthcare professionals"]}
+{"predict": "Facebook", "gt": ["twitter"]}
+{"predict": "1999", "gt": ["1999"]}
+{"predict": "2001", "gt": ["2001"]}
+{"predict": "16-24", "gt": ["16-24"]}
+{"predict": "31,347", "gt": ["31,347"]}
+{"predict": "25", "gt": ["25"]}
+{"predict": "42", "gt": ["42"]}
+{"predict": "16", "gt": ["16"]}
+{"predict": "66,769", "gt": ["66,769"]}
+{"predict": "34 Million", "gt": ["34 million"]}
+{"predict": "3 Million", "gt": ["3 million"]}
+{"predict": "64", "gt": ["64"]}
+{"predict": "AOL", "gt": ["aol"]}
+{"predict": "+2%", "gt": ["+2%", "2%", "2", "+2"]}
+{"predict": "30", "gt": ["30"]}
+{"predict": "College Students Only", "gt": ["college students", "college students only"]}
+{"predict": "800,000", "gt": ["800,000"]}
+{"predict": "2006", "gt": ["2006"]}
+{"predict": "2007", "gt": ["2007"]}
+{"predict": "23,000", "gt": ["23,000"]}
+{"predict": "2007", "gt": ["2007"]}
+{"predict": "200 Million Users", "gt": ["200 million"]}
+{"predict": "49%", "gt": ["49%", "49"]}
+{"predict": "20%", "gt": ["20%"]}
+{"predict": "2010", "gt": ["2010"]}
+{"predict": "1994", "gt": ["1994"]}
+{"predict": "2008", "gt": ["2008"]}
+{"predict": "Psychological", "gt": ["psychological"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "Forced marriage", "gt": ["sexual abuse of children"]}
+{"predict": "2010", "gt": ["2010"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "2003", "gt": ["2003"]}
+{"predict": "1.97 Billion", "gt": ["1.97 billion"]}
+{"predict": "2012", "gt": ["2012"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "1 Billion", "gt": ["1 billion"]}
+{"predict": "2012", "gt": ["2012"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "57%", "gt": ["57%", "57"]}
+{"predict": "2012", "gt": ["2012"]}
+{"predict": "4 Billion", "gt": ["4 billion"]}
+{"predict": "25%", "gt": ["25%", "25"]}
+{"predict": "67%", "gt": ["67%", "67"]}
+{"predict": "2013", "gt": ["2013"]}
+{"predict": "59%", "gt": ["59%", "59"]}
+{"predict": "9.5%", "gt": ["9.5%", "9.5"]}
+{"predict": "Marketing", "gt": ["marketing"]}
+{"predict": "59%", "gt": ["59%", "59"]}
+{"predict": "89%", "gt": ["89%", "89"]}
+{"predict": "21%", "gt": ["21%", "21"]}
+{"predict": "50%", "gt": ["50%", "50"]}
+{"predict": "23%", "gt": ["23%", "23"]}
+{"predict": "27%", "gt": ["27%", "27"]}
+{"predict": "24%", "gt": ["15%"]}
+{"predict": "18%", "gt": ["18%"]}
+{"predict": "41%", "gt": ["41%"]}
+{"predict": "234", "gt": ["234"]}
+{"predict": "104", "gt": ["104"]}
+{"predict": "234", "gt": ["212"]}
+{"predict": "4.5 million", "gt": ["4.5 million"]}
+{"predict": "25%", "gt": ["25%"]}
+{"predict": "38%", "gt": ["38%"]}
+{"predict": "30%", "gt": ["30%"]}
+{"predict": "21%", "gt": ["21%"]}
+{"predict": "913", "gt": ["913"]}
+{"predict": "281", "gt": ["281"]}
+{"predict": "11.8%", "gt": ["11.8%", "11.8"]}
+{"predict": "68", "gt": ["68 incidents", "68"]}
+{"predict": "70%", "gt": ["70%", "70"]}
+{"predict": "25%", "gt": ["25%", "25"]}
+{"predict": "74%", "gt": ["74%", "74"]}
+{"predict": "Battle of Moscow", "gt": ["battle of moscow"]}
+{"predict": "Battle of El Alamein", "gt": ["battle of el alamein"]}
+{"predict": "9 hours + 45 mins", "gt": ["10 hours", "10"]}
+{"predict": "5 years", "gt": ["5 years", "5"]}
+{"predict": "2 years", "gt": ["2 years", "2"]}
+{"predict": "2 years", "gt": ["2 years"]}
+{"predict": "9 hours + 30 mins", "gt": ["9 hours + 30 mins"]}
+{"predict": "4 years", "gt": ["2 years", "2"]}
+{"predict": "7 years", "gt": ["6 years", "6"]}
+{"predict": "3 years", "gt": ["2 years"]}
+{"predict": "10 hours + 30 mins", "gt": ["10 hours + 30 mins"]}
+{"predict": "Handguns", "gt": ["handguns"]}
+{"predict": "9%", "gt": ["9%", "9"]}
+{"predict": "1996", "gt": ["2001"]}
+{"predict": "Opioids", "gt": ["prescription drugs"]}
+{"predict": "Cocaine", "gt": ["heroin"]}
+{"predict": "Heroin", "gt": ["cocaine"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "blood pressure", "gt": ["blood pressure"]}
+{"predict": "nausea", "gt": ["nausea"]}
+{"predict": "One to watch", "gt": ["one to watch"]}
+{"predict": "St. John's Wort", "gt": ["st john's wort"]}
+{"predict": "372", "gt": ["372"]}
+{"predict": "Syria, Iraq", "gt": ["syria, iraq", "iraq, syria"]}
+{"predict": "Syria", "gt": ["iraq"]}
+{"predict": "Offender, victim, arresting officer", "gt": ["victim, arresting officer", "arresting officer, victim"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Calm", "gt": ["reconciliation"]}
+{"predict": "76%", "gt": ["38%", "38"]}
+{"predict": "4 October 1957", "gt": ["12 april", "12 april 1961"]}
+{"predict": "Winnenden", "gt": ["erfurt, winnenden", "winnenden, erfurt"]}
+{"predict": "0.8", "gt": ["0.3"]}
+{"predict": "30.8", "gt": ["30.8"]}
+{"predict": "Level of potential risk to community? Family?", "gt": ["level of potential risk to community? family?"]}
+{"predict": "Removals, Order Protection", "gt": ["order protection, removals, where did the firearm go?", "where did the firearm go?, order protection, removals", "removals, where did the firearm go?, order protection", "order protection, where did the firearm go?, removals", "where did the firearm go?, removals, order protection", "removals, order protection, where did the firearm go?"]}
+{"predict": "2006", "gt": ["2001"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "Medical services are not free", "gt": ["medical services are not free"]}
+{"predict": "48", "gt": ["16"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Lengthy court process", "gt": ["lengthy court process"]}
+{"predict": "19%", "gt": ["19%", "19"]}
+{"predict": "One", "gt": ["25%", "25"]}
+{"predict": "Zimbabwe", "gt": ["zambia"]}
+{"predict": "Benin", "gt": ["togo, benin", "benin, togo"]}
+{"predict": "4", "gt": ["10"]}
+{"predict": "11,493", "gt": ["11,493"]}
+{"predict": "0.8", "gt": ["0.8"]}
+{"predict": "United States", "gt": ["united states"]}
+{"predict": "Murders", "gt": ["homicides"]}
+{"predict": "19%", "gt": ["49%"]}
+{"predict": "64.6%", "gt": ["62.3%", "62.3"]}
+{"predict": "250,000 - 500,000", "gt": ["between 250,000 and 500,000", "between 250,000 and 500,000 women"]}
+{"predict": "Democratic Republic of Congo", "gt": ["the democratic republic of congo"]}
+{"predict": "24%", "gt": ["24%", "24"]}
+{"predict": "24%", "gt": ["33%", "33"]}
+{"predict": "58.4%", "gt": ["62%", "62"]}
+{"predict": "R&D/Scientific/Technical", "gt": ["r&d/scientific/technical"]}
+{"predict": "60%", "gt": ["60%", "60"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "24%", "gt": ["24%", "24"]}
+{"predict": "21%", "gt": ["21%", "21"]}
+{"predict": "South Dakota", "gt": ["south dakota"]}
+{"predict": "72%", "gt": ["72%", "72"]}
+{"predict": "4", "gt": ["5"]}
+{"predict": "California", "gt": ["california"]}
+{"predict": "50%", "gt": ["50", "50%"]}
+{"predict": "20%", "gt": ["20%", "20"]}
+{"predict": "67,100", "gt": ["67,100", "67100"]}
+{"predict": "416,800", "gt": ["1,700", "1700"]}
+{"predict": "8,000", "gt": ["8,000", "8000"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "0", "gt": ["0"]}
+{"predict": "1700", "gt": ["0"]}
+{"predict": "588,000", "gt": ["200,000", "200000"]}
+{"predict": "3", "gt": ["6"]}
+{"predict": "Alexander Zakharchenko", "gt": ["alexander zakharchenko", "alexander zakharchenko, leader of the so-called dpr"]}
+{"predict": "27%", "gt": ["32", "32%"]}
+{"predict": "Russkiy Mir", "gt": ["russkiy mir", "the ideas of \"russkiy mir\"", "ideas of \"russkiy mir\"", "(russian world)", "\"russkiy mir\" (russian world)"]}
+{"predict": "New technology", "gt": ["food product design"]}
+{"predict": "Germany", "gt": ["poland"]}
+{"predict": "Food industry issues/controversies", "gt": ["prepared foods"]}
+{"predict": "Germany", "gt": ["russia"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "16.7%", "gt": ["16.70%", "16.70"]}
+{"predict": "4,330,000", "gt": ["0"]}
+{"predict": "4.18%", "gt": ["4.18%", "4.18"]}
+{"predict": "Engineering", "gt": ["engineering"]}
+{"predict": "14", "gt": ["9"]}
+{"predict": "0.68%", "gt": ["0.68%", "0.68"]}
+{"predict": "Business", "gt": ["$161,772", "$161772", "161772"]}
+{"predict": "China", "gt": ["philippines"]}
+{"predict": "19", "gt": ["19"]}
+{"predict": "4", "gt": ["10"]}
+{"predict": "2018", "gt": ["2018"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "Three times", "gt": ["three times", "three times more"]}
+{"predict": "29%", "gt": ["29%", "29"]}
+{"predict": "Aug 9, 1945", "gt": ["aug 9, 1945", "1945"]}
+{"predict": "Tangible", "gt": ["tangible"]}
+{"predict": "Dec 7, 1941", "gt": ["1941", "in 1941"]}
+{"predict": "1.7 million", "gt": ["3.5 million"]}
+{"predict": "0.95 million", "gt": ["0.95 million"]}
+{"predict": "Two", "gt": ["2"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "Moskva", "gt": ["moskva", "guided missile cruiser moskva"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "586,000", "gt": ["4"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "United States, Russia", "gt": ["russia, united states", "united states, russia"]}
+{"predict": "4", "gt": ["5"]}
+{"predict": "2", "gt": ["1"]}
+{"predict": "INSAS", "gt": ["fra"]}
+{"predict": "U.K.", "gt": ["gbr"]}
+{"predict": "1778", "gt": ["1779"]}
+{"predict": "1778", "gt": ["1778"]}
+{"predict": "388,500", "gt": ["388,500"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "166", "gt": ["$16"]}
+{"predict": "43", "gt": ["43"]}
+{"predict": "1.42", "gt": ["$18.25"]}
+{"predict": "34", "gt": ["34"]}
+{"predict": "28", "gt": ["28"]}
+{"predict": "Nigeria", "gt": ["nigeria"]}
+{"predict": "China", "gt": ["great britain"]}
+{"predict": "Nigeria", "gt": ["nigeria"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "Iran", "gt": ["nigeria"]}
+{"predict": "3 million", "gt": ["3 million", "3 million syrians"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Mexico", "gt": ["mexico"]}
+{"predict": "Mexico", "gt": ["russia"]}
+{"predict": "China", "gt": ["iran"]}
+{"predict": "Attachment", "gt": ["attachment"]}
+{"predict": "Limerence", "gt": ["limerence"]}
+{"predict": "Adrenaline and norepinephrine", "gt": ["norepinephrine, adrenaline", "adrenaline, norepinephrine"]}
+{"predict": "Russia", "gt": ["russia"]}
+{"predict": "240", "gt": ["240"]}
+{"predict": "France", "gt": ["u.s."]}
+{"predict": "225", "gt": ["225"]}
+{"predict": "Iran", "gt": ["israel"]}
+{"predict": "1865", "gt": ["1865"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "11", "gt": ["11"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "3.5 million", "gt": ["3.5 million"]}
+{"predict": "2.5 million", "gt": ["2.5 million"]}
+{"predict": "111k", "gt": ["111k"]}
+{"predict": "9K", "gt": ["9k"]}
+{"predict": "12%", "gt": ["12%"]}
+{"predict": "Gettysburg", "gt": ["gettysburg"]}
+{"predict": "Union", "gt": ["union"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "13,736", "gt": ["12,485"]}
+{"predict": "Confederate", "gt": ["confederate"]}
+{"predict": "2402", "gt": ["2,402"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "Share stories", "gt": ["share stories of other donors' generosity before asking"]}
+{"predict": "89%", "gt": ["89%"]}
+{"predict": "40%", "gt": ["76%"]}
+{"predict": "Europe & Central Asia", "gt": ["europe & central asia"]}
+{"predict": "50", "gt": ["50", "50 countries"]}
+{"predict": "11500000", "gt": ["11,500,000", "11500000"]}
+{"predict": "63%", "gt": ["63%", "63"]}
+{"predict": "1945", "gt": ["1945"]}
+{"predict": "253", "gt": ["253"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "Mind Stone", "gt": ["mind stone"]}
+{"predict": "2001", "gt": ["2001"]}
+{"predict": "Time Stone", "gt": ["time stone"]}
+{"predict": "Mass testing", "gt": ["mass testing"]}
+{"predict": "Reality Stone", "gt": ["space stone"]}
+{"predict": "Soul Stone", "gt": ["power stone"]}
+{"predict": "Reality Stone", "gt": ["reality stone"]}
+{"predict": "Power Stone", "gt": ["soul stone"]}
+{"predict": "9", "gt": ["9"]}
+{"predict": "Thanos", "gt": ["loki"]}
+{"predict": "Thanos", "gt": ["nova corps"]}
+{"predict": "Thanos", "gt": ["doctor strange"]}
+{"predict": "Thanos", "gt": ["new york sanctum"]}
+{"predict": "Miami-Dade", "gt": ["miami-dade"]}
+{"predict": "Pym Particles", "gt": ["eye of agamotto"]}
+{"predict": "16", "gt": ["16"]}
+{"predict": "Reality Stone", "gt": ["space stone"]}
+{"predict": "Miami-Dade", "gt": ["broward"]}
+{"predict": "Three", "gt": ["3"]}
+{"predict": "Iron Man, Iron Man 2", "gt": ["iron man, the incredible hulk", "the incredible hulk, iron man"]}
+{"predict": "1970", "gt": ["1970"]}
+{"predict": "1", "gt": ["1", "once"]}
+{"predict": "1962", "gt": ["1962"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "Iron Man", "gt": ["thor, the avengers", "the avengers, thor"]}
+{"predict": "Battle of Germantown", "gt": ["battle of germantown"]}
+{"predict": "Vanaheim, Asgard", "gt": ["asgard, jotunheim", "jotunheim, asgard"]}
+{"predict": "1958, 1962, 1970", "gt": ["1958, 1962, 1970", "1958, 1970, 1962", "1970, 1958, 1962", "1962, 1970, 1958", "1962, 1958, 1970", "1970, 1962, 1958"]}
+{"predict": "Oct.17", "gt": ["oct.17"]}
+{"predict": "Mar", "gt": ["may"]}
+{"predict": "Iron Man", "gt": ["iron man"]}
+{"predict": "Guardians of the Galaxy", "gt": ["the avengers"]}
+{"predict": "85%", "gt": ["85%"]}
+{"predict": "Bruce Banner", "gt": ["bruce banner"]}
+{"predict": "1,100+", "gt": ["1,100+"]}
+{"predict": "$367bn", "gt": ["$367bn"]}
+{"predict": "Google", "gt": ["google"]}
+{"predict": "Iron Man", "gt": ["captain america: the first avenger"]}
+{"predict": "May 2014", "gt": ["sept. 2013"]}
+{"predict": "2014", "gt": ["2014"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "WhatsApp", "gt": ["whatsapp"]}
+{"predict": "Guardians of the Galaxy", "gt": ["guardians of the galaxy"]}
+{"predict": "Yahoo", "gt": ["yahoo"]}
+{"predict": "Drax", "gt": ["groot"]}
+{"predict": "Nokia", "gt": ["skype"]}
+{"predict": "2017", "gt": ["2017"]}
+{"predict": "2018", "gt": ["2018"]}
+{"predict": "Aug. 2014", "gt": ["aug. 2011"]}
+{"predict": "Ant-Man", "gt": ["ant-man"]}
+{"predict": "Time Stone", "gt": ["time stone"]}
+{"predict": "Tesseract", "gt": ["tesseract"]}
+{"predict": "Spider-Man", "gt": ["spider-man"]}
+{"predict": "2004", "gt": ["2004"]}
+{"predict": "5 Billion", "gt": ["5 billion"]}
+{"predict": "10", "gt": ["10"]}
+{"predict": "Gamora", "gt": ["peter quill", "star-lord"]}
+{"predict": "Thor: The Dark World", "gt": ["thor: the dark world, thor: ragnarok", "thor: ragnarok, thor: the dark world"]}
+{"predict": "Guardians of the Galaxy", "gt": ["guardians of the galaxy"]}
+{"predict": "2007", "gt": ["2007"]}
+{"predict": "Hulk", "gt": ["hulk"]}
+{"predict": "93,047,785", "gt": ["93,047,785"]}
+{"predict": "1.1m", "gt": ["1.1m", "1.1"]}
+{"predict": "Intel 4004", "gt": ["intel 4004", "4004"]}
+{"predict": "4.01", "gt": ["4.01"]}
+{"predict": "59%", "gt": ["59%"]}
+{"predict": "53%", "gt": ["53%"]}
+{"predict": "76,472", "gt": ["76,472"]}
+{"predict": "58%", "gt": ["58%"]}
+{"predict": "47%", "gt": ["47%"]}
+{"predict": "687,806", "gt": ["687,806"]}
+{"predict": "May", "gt": ["jul"]}
+{"predict": "15~24", "gt": ["15~24"]}
+{"predict": "19", "gt": ["20"]}
+{"predict": "85%", "gt": ["85%"]}
+{"predict": "33%", "gt": ["33%", "33"]}
+{"predict": "14%", "gt": ["12%", "12"]}
+{"predict": "14%", "gt": ["14%", "14"]}
+{"predict": "25%", "gt": ["25%", "25"]}
+{"predict": "$345M", "gt": ["$345m"]}
+{"predict": "45%", "gt": ["45%", "45"]}
+{"predict": "NBA", "gt": ["nba, mm", "mm, nba"]}
+{"predict": "44%", "gt": ["44%", "44"]}
+{"predict": "NFL", "gt": ["nfl"]}
+{"predict": "45%", "gt": ["45%", "45"]}
+{"predict": "MLB", "gt": ["mlb"]}
+{"predict": "NBA", "gt": ["nfl"]}
+{"predict": "NFL", "gt": ["nba"]}
+{"predict": "May", "gt": ["aug"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "6", "gt": ["7"]}
+{"predict": "48K", "gt": ["48k"]}
+{"predict": "Coronavirus Crash", "gt": ["great depression"]}
+{"predict": "Coronavirus crash", "gt": ["dot-com crash"]}
+{"predict": "52.3%", "gt": ["52.3%", "52.3"]}
+{"predict": "Black Monday", "gt": ["black monday"]}
+{"predict": "6249", "gt": ["6249"]}
+{"predict": "693", "gt": ["693"]}
+{"predict": "Critical", "gt": ["critical"]}
+{"predict": "Foot ulcer with local mild or moderate infection (including osteomyelitis)", "gt": ["highly serious, serious", "serious, highly serious"]}
+{"predict": "Foot ulcer with local mild or moderate infection (including osteomyelitis)", "gt": ["stable"]}
+{"predict": "15", "gt": ["26"]}
+{"predict": "March", "gt": ["feb"]}
+{"predict": "April", "gt": ["mar"]}
+{"predict": "24 Jan", "gt": ["10 feb"]}
+{"predict": "6", "gt": ["5"]}
+{"predict": "Mar", "gt": ["apr"]}
+{"predict": "North America and Western Europe", "gt": ["north america and western europe"]}
+{"predict": "Italy", "gt": ["sweden, germany", "germany, sweden"]}
+{"predict": "Latin America and the Caribbean", "gt": ["latin america and the caribbean"]}
+{"predict": "16.8", "gt": ["16.8 years", "16.8"]}
+{"predict": "South and West Asia", "gt": ["sub-saharan africa"]}
+{"predict": "United States", "gt": ["united kingdom"]}
+{"predict": "North America and Western Europe", "gt": ["north america and western europe"]}
+{"predict": "10.1", "gt": ["10.1"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "Latin America and the Caribbean", "gt": ["east asia and the pacific"]}
+{"predict": "Central and Eastern Europe", "gt": ["central and eastern europe"]}
+{"predict": "54.3%", "gt": ["54.3%", "54.3"]}
+{"predict": "South and West Asia", "gt": ["south and west asia"]}
+{"predict": "3", "gt": ["4"]}
+{"predict": "North America and Western Europe", "gt": ["north america and western europe"]}
+{"predict": "Share contacts", "gt": ["share contacts"]}
+{"predict": "Book a test", "gt": ["book a test"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Disease control", "gt": ["disease control"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "9-11 days", "gt": ["2 days"]}
+{"predict": "42%", "gt": ["42%"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "Singapore, Hong Kong", "gt": ["singapore, hong kong", "hong kong, singapore"]}
+{"predict": "90%", "gt": ["90%"]}
+{"predict": "12%", "gt": ["12%"]}
+{"predict": "2.6%", "gt": ["2.6%"]}
+{"predict": "17.4%", "gt": ["17.4%"]}
+{"predict": "16.0%", "gt": ["16.0%"]}
+{"predict": "Physical distancing, face masks, eye protection", "gt": ["eye protection, physical distancing, face masks", "physical distancing, face masks, eye protection", "face masks, physical distancing, eye protection", "eye protection, face masks, physical distancing", "face masks, eye protection, physical distancing", "physical distancing, eye protection, face masks"]}
+{"predict": "Hungary", "gt": ["hungary"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "Canada, United States", "gt": ["canada, united states", "united states, canada"]}
+{"predict": "Canada", "gt": ["canada"]}
+{"predict": "5", "gt": ["4"]}
+{"predict": "Spain", "gt": ["spain"]}
+{"predict": "23", "gt": ["23", "23 black points"]}
+{"predict": "90 days", "gt": ["90 days"]}
+{"predict": "15%", "gt": ["15%"]}
+{"predict": "10%", "gt": ["10%"]}
+{"predict": "10", "gt": ["14"]}
+{"predict": "90 days", "gt": ["90 days"]}
+{"predict": "Driving a noisy vehicle", "gt": ["driving a noisy vehicle"]}
+{"predict": "30 days", "gt": ["30 days"]}
+{"predict": "23", "gt": ["23", "23 black points"]}
+{"predict": "6", "gt": ["6", "6 black points"]}
+{"predict": "HDL (\"GOOD\") CHOLESTEROL", "gt": ["hdl", "high density cholesterol", "hdl (\"good\") cholesterol"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Fried Foods", "gt": ["high glycemic foods"]}
+{"predict": "Fried Foods", "gt": ["fried foods"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Carrots", "gt": ["apples, carrots, cabbage", "carrots, apples, cabbage", "cabbage, carrots, apples", "apples, cabbage, carrots", "carrots, cabbage, apples", "cabbage, apples, carrots"]}
+{"predict": "Strawberry", "gt": ["strawberry"]}
+{"predict": "Pasta Sauce", "gt": ["pasta sauce"]}
+{"predict": "$6.7 million", "gt": ["$6.7 million"]}
+{"predict": "$9.2 million", "gt": ["$9.2 million"]}
+{"predict": "Humanitarian support for Syria", "gt": ["humanitarian support for syria"]}
+{"predict": "$1.8 million", "gt": ["$1.8 million"]}
+{"predict": "Expanding overseas representation", "gt": ["expanding overseas representation"]}
+{"predict": "$2.4 million", "gt": ["$2.4 million"]}
+{"predict": "Outside", "gt": ["outside, inside", "inside, outside"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Equality", "gt": ["equality"]}
+{"predict": "46%", "gt": ["46%", "46"]}
+{"predict": "24%", "gt": ["24%", "24"]}
+{"predict": "SLEEVE APPLICATION SEAMING, HEAT APPLICATION", "gt": ["heat application, seaming", "seaming, heat application"]}
+{"predict": "Rugby League fans", "gt": ["rugby league fans"]}
+{"predict": "44%", "gt": ["46%"]}
+{"predict": "Rugby League fans", "gt": ["rugby league fans"]}
+{"predict": "4%", "gt": ["4%"]}
+{"predict": "46%", "gt": ["45%", "45"]}
+{"predict": "Sweet Potatoes", "gt": ["papayas"]}
+{"predict": "Cloud Computing", "gt": ["cloud computing"]}
+{"predict": "35%", "gt": ["35%", "35"]}
+{"predict": "25 - 34", "gt": ["25-34"]}
+{"predict": "41%", "gt": ["44%"]}
+{"predict": "90,000", "gt": ["90,000"]}
+{"predict": "126,052", "gt": ["126,052"]}
+{"predict": "LEEDS BUILDING SOCIETY, LEEDS BECKETT UNIVERSITY, GLOBAL", "gt": ["leeds building society, leeds beckett university, global", "leeds building society, global, leeds beckett university", "global, leeds building society, leeds beckett university", "leeds beckett university, global, leeds building society", "global, leeds beckett university, leeds building society", "leeds beckett university, leeds building society, global"]}
+{"predict": "Leeds Rhinos", "gt": ["leeds rhinos"]}
+{"predict": "Hull KR", "gt": ["hull kr"]}
+{"predict": "14,898", "gt": ["14,898"]}
+{"predict": "8,051", "gt": ["8,051"]}
+{"predict": "Leeds Rhinos", "gt": ["leeds rhinos"]}
+{"predict": "Leeds Rhinos", "gt": ["leeds rhinos"]}
+{"predict": "Port Elizabeth", "gt": ["port elizabeth"]}
+{"predict": "82.2K", "gt": ["82.2k", "82.2"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Peter Mokaba", "gt": ["peter mokaba"]}
+{"predict": "Leeds Rhinos", "gt": ["leeds rhinos"]}
+{"predict": "7.5 million", "gt": ["7.5 million"]}
+{"predict": "Leeds Rhinos vs. Hull KR", "gt": ["hull kr, leeds rhinos", "leeds rhinos, hull kr"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "Austrade", "gt": ["austrade"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Vincent Vega", "gt": ["samuel l. jackson"]}
+{"predict": "Vincent Vega", "gt": ["john travolta"]}
+{"predict": "Uma Thurman", "gt": ["uma thurman"]}
+{"predict": "173%", "gt": ["173%"]}
+{"predict": "97%", "gt": ["179%"]}
+{"predict": "183%", "gt": ["183%"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "2", "gt": ["3"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "365", "gt": ["365"]}
+{"predict": "772", "gt": ["772"]}
+{"predict": "4.3%", "gt": ["1649"]}
+{"predict": "543", "gt": ["543"]}
+{"predict": "435", "gt": ["435"]}
+{"predict": "126", "gt": ["126"]}
+{"predict": "7", "gt": ["9"]}
+{"predict": "87%", "gt": ["87%", "87"]}
+{"predict": "Large Supermarkets", "gt": ["large supermarkets"]}
+{"predict": "53", "gt": ["53"]}
+{"predict": "4 sec", "gt": ["4 sec", "4"]}
+{"predict": "42%", "gt": ["42%", "42"]}
+{"predict": "Social media", "gt": ["social media"]}
+{"predict": "40%", "gt": ["40%", "40"]}
+{"predict": "38%", "gt": ["38%", "38"]}
+{"predict": "Urban", "gt": ["urban"]}
+{"predict": "32%", "gt": ["32%", "32"]}
+{"predict": "Cost, Location, Availability of nutritious foods", "gt": ["cost, location, availability of nutritious food", "availability of nutritious food, cost, location", "cost, availability of nutritious food, location", "location, availability of nutritious food, cost", "availability of nutritious food, location, cost", "location, cost, availability of nutritious food"]}
+{"predict": "8 halls, 700 exhibitors", "gt": ["708"]}
+{"predict": "7", "gt": ["07"]}
+{"predict": "4", "gt": ["04"]}
+{"predict": "10", "gt": ["10"]}
+{"predict": "Cost", "gt": ["cost"]}
+{"predict": "Location", "gt": ["location"]}
+{"predict": "3", "gt": ["4"]}
+{"predict": "902K", "gt": ["902k"]}
+{"predict": "6K", "gt": ["6k"]}
+{"predict": "288", "gt": ["288"]}
+{"predict": "33%", "gt": ["33%", "33"]}
+{"predict": "32%", "gt": ["32%", "32"]}
+{"predict": "65K", "gt": ["65k"]}
+{"predict": "87K", "gt": ["87k"]}
+{"predict": "15%", "gt": ["15%", "15"]}
+{"predict": "39%", "gt": ["39%", "39"]}
+{"predict": "40%", "gt": ["40%", "40"]}
+{"predict": "29 million", "gt": ["29 million"]}
+{"predict": "293K", "gt": ["293k"]}
+{"predict": "9K", "gt": ["9k"]}
+{"predict": "4.27 million", "gt": ["4.27 million"]}
+{"predict": "1.25 Million", "gt": ["1.25 million"]}
+{"predict": "$8,985", "gt": ["$8,985"]}
+{"predict": "82%", "gt": ["82%"]}
+{"predict": "$49 Billion", "gt": ["$871 million"]}
+{"predict": "2", "gt": ["1"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "SQUID INK", "gt": ["squid ink", "(squid ink )"]}
+{"predict": "Carrot", "gt": ["carrot", "(carrot)"]}
+{"predict": "Pasta Fresca", "gt": ["fresh pasta", "\"pasta fresca\"", "pasta fresca"]}
+{"predict": "Elbows", "gt": ["elbows", "(elbows)"]}
+{"predict": "Big tubes", "gt": ["big tubes", "(big tubes)"]}
+{"predict": "5.3", "gt": ["5.3", "5.3 million tonnes"]}
+{"predict": "200", "gt": ["200"]}
+{"predict": "Retail", "gt": ["retail"]}
+{"predict": "Construction", "gt": ["construction"]}
+{"predict": "4%", "gt": ["2%"]}
+{"predict": "Retail", "gt": ["transport, postal & warehousing"]}
+{"predict": "5%", "gt": ["4%"]}
+{"predict": "24%", "gt": ["24%"]}
+{"predict": "NSW", "gt": ["vic"]}
+{"predict": "Butterflies", "gt": ["butterflies", "(butterflies)"]}
+{"predict": "Salt", "gt": ["salt"]}
+{"predict": "Cannelloni", "gt": ["linguine", "linguine (little tongues)"]}
+{"predict": "Legislation", "gt": ["legislation"]}
+{"predict": "FINANCIAL", "gt": ["financial"]}
+{"predict": "LEADERSHIP", "gt": ["leadership"]}
+{"predict": "44.2k", "gt": ["44.2k"]}
+{"predict": "10%", "gt": ["10%", "10"]}
+{"predict": "30%", "gt": ["30%", "30"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "Lunar New Year", "gt": ["lunar new year"]}
+{"predict": "41.4k", "gt": ["41.4k"]}
+{"predict": "34.3k", "gt": ["34.3k"]}
+{"predict": "40%", "gt": ["40%"]}
+{"predict": "33", "gt": ["33"]}
+{"predict": "44", "gt": ["44"]}
+{"predict": "ECOLOGICAL", "gt": ["legislation"]}
+{"predict": "ECOLOGICAL", "gt": ["ecological"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "52%", "gt": ["52%", "52"]}
+{"predict": "44%", "gt": ["44%", "44"]}
+{"predict": "26%", "gt": ["50%", "50"]}
+{"predict": "38%", "gt": ["38%", "38"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "7", "gt": ["6"]}
+{"predict": "No sharing tools, no sharing plan, wrong platform", "gt": ["no sharing tools, no sharing plan, wrong platform", "no sharing tools, wrong platform, no sharing plan", "wrong platform, no sharing plan, no sharing tools", "no sharing plan, wrong platform, no sharing tools", "wrong platform, no sharing tools, no sharing plan", "no sharing plan, no sharing tools, wrong platform"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "Pinterest", "gt": ["embed code"]}
+{"predict": "10.48", "gt": ["$10.45", "10.45"]}
+{"predict": "Center circle", "gt": ["center circle"]}
+{"predict": "$9.42", "gt": ["$13.42", "13.42"]}
+{"predict": "FFP3", "gt": ["ffp3 face mask"]}
+{"predict": "$11.89", "gt": ["$10.92", "10.92"]}
+{"predict": "78'", "gt": ["78'"]}
+{"predict": "Fluid Resistant Surgical Mask", "gt": ["fluid resistant surgical mask"]}
+{"predict": "9.58", "gt": ["$10.48", "10.48"]}
+{"predict": "Full Face Shield", "gt": ["full face shield"]}
+{"predict": "Long Sleeved Fluid Repellent Gown", "gt": ["long sleeved fluid repellent gown"]}
+{"predict": "$15.98", "gt": ["$13.41", "13.41"]}
+{"predict": "44'", "gt": ["20'"]}
+{"predict": "Disposable Apron", "gt": ["disposable apron"]}
+{"predict": "7.95", "gt": ["$7.33", "7.33"]}
+{"predict": "14.19", "gt": ["$13.89", "13.89"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "$16.14", "gt": ["$16.21", "16.21"]}
+{"predict": "24.71", "gt": ["$24.71", "24.71"]}
+{"predict": "$1.49", "gt": ["$1.96", "1.96"]}
+{"predict": "2.32", "gt": ["$2.32", "2.32"]}
+{"predict": "2.42", "gt": ["$3.37", "3.37"]}
+{"predict": "10", "gt": ["10", "10 patrons"]}
+{"predict": "20", "gt": ["20", "20 patrons"]}
+{"predict": "100", "gt": ["100", "up to 100 people"]}
+{"predict": "138", "gt": ["138"]}
+{"predict": "134", "gt": ["134"]}
+{"predict": "140", "gt": ["140"]}
+{"predict": "68B", "gt": ["$68b"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "2007, 2009", "gt": ["2007, 2009", "2009, 2007"]}
+{"predict": "Up to 10 guests", "gt": ["10"]}
+{"predict": "25%", "gt": ["25%"]}
+{"predict": "2,000,000,000", "gt": ["2,000,000,000"]}
+{"predict": "20", "gt": ["50", "50 mourners"]}
+{"predict": "100", "gt": ["100", "up to 100 people"]}
+{"predict": "39%", "gt": ["39%", "39"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "80%", "gt": ["80%"]}
+{"predict": "3%", "gt": ["3%"]}
+{"predict": "U.S.", "gt": ["u.s."]}
+{"predict": "Messenger", "gt": ["instagram"]}
+{"predict": "62%", "gt": ["49%"]}
+{"predict": "60%", "gt": ["60%", "60"]}
+{"predict": "79%", "gt": ["88%"]}
+{"predict": "47%", "gt": ["47%", "47"]}
+{"predict": "up to 10", "gt": ["10", "up to 10"]}
+{"predict": "74%", "gt": ["74%"]}
+{"predict": "20", "gt": ["20", "up to 20"]}
+{"predict": "5", "gt": ["5", "up to 5"]}
+{"predict": "64%", "gt": ["64%"]}
+{"predict": "57%", "gt": ["57%"]}
+{"predict": "20", "gt": ["20", "up to 20"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "75%", "gt": ["75%", "75"]}
+{"predict": "SSR", "gt": ["ussr"]}
+{"predict": "9.5", "gt": ["9.5"]}
+{"predict": "Japan", "gt": ["chile"]}
+{"predict": "10%", "gt": ["10%", "10"]}
+{"predict": "55%", "gt": ["55%", "55"]}
+{"predict": "97%", "gt": ["97%", "97"]}
+{"predict": "Insurance", "gt": ["insurance"]}
+{"predict": "$47.07", "gt": ["$47.07"]}
+{"predict": "16%", "gt": ["16%", "16"]}
+{"predict": "Loans", "gt": ["loans"]}
+{"predict": "$6.06", "gt": ["$36.06"]}
+{"predict": "3%", "gt": ["3%", "3"]}
+{"predict": "22.2%", "gt": ["22.2%", "22.2"]}
+{"predict": "2015", "gt": ["2012"]}
+{"predict": "Twitter", "gt": ["facebook"]}
+{"predict": "37.7%", "gt": ["71.6%", "71.6"]}
+{"predict": "2014", "gt": ["2021"]}
+{"predict": "USA", "gt": ["usa"]}
+{"predict": "Senhora", "gt": ["senhora"]}
+{"predict": "2011", "gt": ["2011"]}
+{"predict": "Denmark", "gt": ["france"]}
+{"predict": "Sweden", "gt": ["sweden"]}
+{"predict": "81%", "gt": ["81%", "81"]}
+{"predict": "116.3", "gt": ["116.3"]}
+{"predict": "UAE", "gt": ["israel"]}
+{"predict": "Good customer service", "gt": ["good customer service"]}
+{"predict": "Solar", "gt": ["geothermal"]}
+{"predict": "Sayed", "gt": ["sayeda"]}
+{"predict": "28%", "gt": ["28%", "28"]}
+{"predict": "Geothermal", "gt": ["solar"]}
+{"predict": "80%", "gt": ["80%", "80"]}
+{"predict": "4%", "gt": ["4%", "4"]}
+{"predict": "yellow", "gt": ["yellow"]}
+{"predict": "blue", "gt": ["blue"]}
+{"predict": "6%", "gt": ["33%", "33"]}
+{"predict": "90", "gt": ["90"]}
+{"predict": "45%", "gt": ["45%", "45"]}
+{"predict": "62%", "gt": ["62%", "62"]}
+{"predict": "Not challenged", "gt": ["not challenged"]}
+{"predict": "18-25", "gt": ["26-35", "26 - 35"]}
+{"predict": "10 months", "gt": ["10 months"]}
+{"predict": "New York City", "gt": ["new york city"]}
+{"predict": "Las Vegas", "gt": ["las vegas convention center"]}
+{"predict": "2000", "gt": ["2000"]}
+{"predict": "HDTV", "gt": ["hdtv"]}
+{"predict": "34.8%", "gt": ["34.8%", "34.8"]}
+{"predict": "13.3%", "gt": ["13.3%", "13.3"]}
+{"predict": "51%", "gt": ["51%", "51"]}
+{"predict": "26%", "gt": ["26%", "26"]}
+{"predict": "16%", "gt": ["16%", "16"]}
+{"predict": "44%", "gt": ["44%", "44"]}
+{"predict": "8%", "gt": ["8%", "8"]}
+{"predict": "14.2%", "gt": ["14.2%", "14.2"]}
+{"predict": "Facebook", "gt": ["facebook", "on facebook"]}
+{"predict": "45.3%", "gt": ["45.3%", "45.3"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Indirect", "gt": ["indirect"]}
+{"predict": "January", "gt": ["january"]}
+{"predict": "Brazil", "gt": ["brazil"]}
+{"predict": "Denmark, France, Germany, Italy, Spain, Sweden, Switzerland", "gt": ["spain, france, russia", "russia, france, spain", "russia, spain, france", "france, russia, spain", "spain, russia, france", "france, spain, russia"]}
+{"predict": "28%", "gt": ["28%", "28"]}
+{"predict": "Japan", "gt": ["singapore"]}
+{"predict": "64%", "gt": ["9%", "9"]}
+{"predict": "29%", "gt": ["29%", "29"]}
+{"predict": "System Preferences", "gt": ["security & privacy"]}
+{"predict": "0.56", "gt": ["0.56"]}
+{"predict": "System Preferences", "gt": ["icloud"]}
+{"predict": "0.15", "gt": ["0.15"]}
+{"predict": "1%", "gt": ["1%", "1"]}
+{"predict": "96%", "gt": ["96%", "96"]}
+{"predict": "6.67%", "gt": ["6.67%"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "16", "gt": ["36"]}
+{"predict": "9", "gt": ["9"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "22", "gt": ["22"]}
+{"predict": "15", "gt": ["45"]}
+{"predict": "5", "gt": ["4"]}
+{"predict": "36%", "gt": ["36%"]}
+{"predict": "95%", "gt": ["96%"]}
+{"predict": "80 mph", "gt": ["80 mph"]}
+{"predict": "23%", "gt": ["23%"]}
+{"predict": "31%", "gt": ["31%"]}
+{"predict": "109", "gt": ["109"]}
+{"predict": "1,000,000", "gt": ["1,000,000", "1000000"]}
+{"predict": "45%", "gt": ["45%", "45"]}
+{"predict": "55%", "gt": ["55%", "55"]}
+{"predict": "415 Miles", "gt": ["415 miles"]}
+{"predict": "32%", "gt": ["32%", "32"]}
+{"predict": "77%", "gt": ["77%", "77"]}
+{"predict": "47%", "gt": ["47%", "47"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "$434B", "gt": ["$434b"]}
+{"predict": "$216B", "gt": ["$216b"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "5", "gt": ["7"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "63%", "gt": ["63%", "63"]}
+{"predict": "$17B", "gt": ["$17b"]}
+{"predict": "28%", "gt": ["9%", "9"]}
+{"predict": "100%", "gt": ["100"]}
+{"predict": "$158", "gt": ["$158"]}
+{"predict": "Design your invite", "gt": ["design your invite"]}
+{"predict": "Plan and host the rehearsal dinner (groom)", "gt": ["plan and host the rehearsal dinner"]}
+{"predict": "New York City", "gt": ["new york city"]}
+{"predict": "Long Island", "gt": ["long island"]}
+{"predict": "Distribute corsages to family members before they're seated", "gt": ["direct guests to their seats"]}
+{"predict": "Ushers", "gt": ["ushers"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "3", "gt": ["2"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Choose & Harvest Farms", "gt": ["choose & harvest farms"]}
+{"predict": "Michigan", "gt": ["michigan"]}
+{"predict": "$60.63", "gt": ["$60.63"]}
+{"predict": "24%", "gt": ["24%"]}
+{"predict": "North Carolina", "gt": ["north carolina"]}
+{"predict": "3.49M", "gt": ["3.49m"]}
+{"predict": "1,620,851", "gt": ["1,620,851", "1620851"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "26,000", "gt": ["26,000", "26000"]}
+{"predict": "62,820", "gt": ["62,820", "62820"]}
+{"predict": "16%", "gt": ["16%"]}
+{"predict": "Non-Hispanic Blacks", "gt": ["non hispanic blacks"]}
+{"predict": "Fly a US flag at half staff until noon", "gt": ["fly a us flag at half staff until noon"]}
+{"predict": "30 MINS", "gt": ["30 mins"]}
+{"predict": "25 IU", "gt": ["25 iu"]}
+{"predict": "62.8%", "gt": ["62.8%"]}
+{"predict": "$265.6B", "gt": ["$265.6b"]}
+{"predict": "47%", "gt": ["49%", "49"]}
+{"predict": "49%", "gt": ["overrun on budget"]}
+{"predict": "2.3%", "gt": ["2.3%"]}
+{"predict": "1.4%", "gt": ["1.4%"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "Japan", "gt": ["china"]}
+{"predict": "UK", "gt": ["italy"]}
+{"predict": "Japan", "gt": ["japan"]}
+{"predict": "-0.8%", "gt": ["-0.8%"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "Germany", "gt": ["germany"]}
+{"predict": "China", "gt": ["india"]}
+{"predict": "9", "gt": ["12"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "blue", "gt": ["blue"]}
+{"predict": "Affiliate", "gt": ["merchant"]}
+{"predict": "orange", "gt": ["blue"]}
+{"predict": "Jack", "gt": ["jack"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "2", "gt": ["1"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "2014", "gt": ["'12", "2012"]}
+{"predict": "Memory card", "gt": ["memory card"]}
+{"predict": "Compact Disc", "gt": ["vinyl record"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "5\" FLOPPY DISK", "gt": ["5\" floppy disk"]}
+{"predict": "Solid State Drive", "gt": ["solid state hard drive"]}
+{"predict": "Compact Disc", "gt": ["compact disc"]}
+{"predict": "Imports", "gt": ["crude oil imports"]}
+{"predict": "2", "gt": ["3"]}
+{"predict": "Industrial", "gt": ["industrial"]}
+{"predict": "UNDEVELOPED FILM", "gt": ["undeveloped film"]}
+{"predict": "64.9%", "gt": ["66.9%"]}
+{"predict": "3", "gt": ["4"]}
+{"predict": "CD-RW", "gt": ["cd-rw"]}
+{"predict": "Global Financial Crisis", "gt": ["arab spring"]}
+{"predict": "China", "gt": ["india"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "18%", "gt": ["18%"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "1.4 gallons", "gt": ["21.04 gal"]}
+{"predict": "2012", "gt": ["'12", "2012"]}
+{"predict": "Petroleum District 5", "gt": ["petroleum district 5"]}
+{"predict": "Petroleum District 2", "gt": ["petroleum district 2"]}
+{"predict": "American Sweet Iced Tea", "gt": ["american sweet iced tea"]}
+{"predict": "JAPANESE MATCHA", "gt": ["moroccan mint tea"]}
+{"predict": "TIBETAN BUTTER TEA", "gt": ["chinese jasmine green tea", "chinese jasmine green"]}
+{"predict": "Tibetan Butter Tea", "gt": ["tibetan butter tea"]}
+{"predict": "Bubble Tea", "gt": ["bubble tea"]}
+{"predict": "Karab Chai", "gt": ["karak chai"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "18-30", "gt": ["18-30"]}
+{"predict": "22%", "gt": ["22%"]}
+{"predict": "Camera", "gt": ["camera"]}
+{"predict": "Russian Caravan", "gt": ["german ostfriesentee"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Cough", "gt": ["cough"]}
+{"predict": "Avoid close contact with sick people", "gt": ["avoid close contact with sick people"]}
+{"predict": "Use masks", "gt": ["use masks"]}
+{"predict": "KIDNEY FAILURE, DEATH", "gt": ["kidney failure, death", "death, kidney failure"]}
+{"predict": "Organizers", "gt": ["social"]}
+{"predict": "Organizers", "gt": ["the doers"]}
+{"predict": "Create a nib ladder", "gt": ["create a nib ladder"]}
+{"predict": "Organized, orderly and precise", "gt": ["conventional"]}
+{"predict": "Draw the cap-height", "gt": ["draw the cap-height"]}
+{"predict": "Cap-height", "gt": ["cap-height", "cap height"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "chisel-tip block marker", "gt": ["black chisel-tip marker"]}
+{"predict": "Old clothes", "gt": ["some old clothes", "old clothes", "put on some old clothes"]}
+{"predict": "old towels or cloths", "gt": ["old towels or cloths", "cover your lap with some old towels or cloths", "some old towels or cloths"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "brush", "gt": ["brush", "your brush"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Two", "gt": ["2", "tape two pencils", "two pencils", "two"]}
+{"predict": "Tape two pencils together", "gt": ["tape two pencils together with sticky tape"]}
+{"predict": "45 degrees", "gt": ["45 degrees"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "ink", "gt": ["ink"]}
+{"predict": "tape your paper to the desk", "gt": ["tape your paper to the desk", "tape your paper to the desk for extra stability"]}
+{"predict": "Permanent ink", "gt": ["nibbed drawing pen, permanent ink", "permanent ink, nibbed drawing pen"]}
+{"predict": "The Shining", "gt": ["1922, the stand", "the stand, 1922"]}
+{"predict": "Pennywise", "gt": ["pennywise the clown"]}
+{"predict": "5", "gt": ["17"]}
+{"predict": "Wendy Torrance", "gt": ["wendy torrance"]}
+{"predict": "403,673", "gt": ["403,673"]}
+{"predict": "4", "gt": ["5"]}
+{"predict": "329,156", "gt": ["329,156"]}
+{"predict": "N/A", "gt": ["fun."]}
+{"predict": "Hunter Hayes", "gt": ["frank ocean"]}
+{"predict": "The Losers", "gt": ["paul sheldon, eddie kaspbrak", "eddie kaspbrak, paul sheldon"]}
+{"predict": "8.522", "gt": ["8,522"]}
+{"predict": "5", "gt": ["4"]}
+{"predict": "Taylor Swift", "gt": ["taylor swift"]}
+{"predict": "855,453", "gt": ["855,453"]}
+{"predict": "Jack White", "gt": ["jack white"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "Marketo", "gt": ["marketo"]}
+{"predict": "$232.9B", "gt": ["$232.9b"]}
+{"predict": "$35", "gt": ["$30"]}
+{"predict": "$59.5B", "gt": ["$59.5b"]}
+{"predict": "62.8%", "gt": ["62.8%", "62.8"]}
+{"predict": "17.7%", "gt": ["17.7%", "17.7"]}
+{"predict": "Facebook Ads", "gt": ["facebook ads"]}
+{"predict": "$16.6B", "gt": ["$16.6b"]}
+{"predict": "43%", "gt": ["43%", "43"]}
+{"predict": "Tempur-Pedic", "gt": ["tempur + sealy"]}
+{"predict": "$110.4B", "gt": ["$110.4b"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "5%", "gt": ["6%", "6"]}
+{"predict": "Business Relationships", "gt": ["business results"]}
+{"predict": "29%", "gt": ["29%"]}
+{"predict": "Courage, Clout, Astuteness", "gt": ["astuteness, courage, clout", "clout, astuteness, courage", "courage, clout, astuteness", "courage, astuteness, clout", "clout, courage, astuteness", "astuteness, clout, courage"]}
+{"predict": "Robert Carter", "gt": ["robert carter"]}
+{"predict": "3.16", "gt": ["3.16"]}
+{"predict": "180", "gt": ["180"]}
+{"predict": "GIF", "gt": ["gif"]}
+{"predict": "PNG-8", "gt": ["png-8"]}
+{"predict": "Unlimited", "gt": ["unlimited colors", "unlimited"]}
+{"predict": "Transparency, Alpha Channel", "gt": ["transparency"]}
+{"predict": "JPEG", "gt": ["jpeg"]}
+{"predict": "Unlimited Colors, Transparency, Alpha Channel, Compression, Scalable", "gt": ["unlimited colors, transparency", "transparency, unlimited colors"]}
+{"predict": "34", "gt": ["34"]}
+{"predict": "34", "gt": ["34"]}
+{"predict": "60\" X 39\"", "gt": ["60\" x 39\""]}
+{"predict": "5000", "gt": ["20,000"]}
+{"predict": "Thinkers", "gt": ["thinkers, organizers", "organizers, thinkers"]}
+{"predict": "Doers", "gt": ["doers, artists", "artists, doers"]}
+{"predict": "100,000", "gt": ["100,000"]}
+{"predict": "Artists", "gt": ["organizers"]}
+{"predict": "Extra Space Storage", "gt": ["extra space storage"]}
+{"predict": "carbon dioxide", "gt": ["carbon dioxide"]}
+{"predict": "20,000", "gt": ["20,000"]}
+{"predict": "6,466 tons", "gt": ["6,466 tons"]}
+{"predict": "2,439 tons", "gt": ["2,439 tons"]}
+{"predict": "80.2%", "gt": ["80.2%", "80.2"]}
+{"predict": "126%", "gt": ["126%", "126"]}
+{"predict": "112%", "gt": ["112%", "112"]}
+{"predict": "99%", "gt": ["99%", "99"]}
+{"predict": "80%", "gt": ["80%", "80"]}
+{"predict": "933", "gt": ["100"]}
+{"predict": "250", "gt": ["250"]}
+{"predict": "2009", "gt": ["2009"]}
+{"predict": "6,466", "gt": ["2,000"]}
+{"predict": "58%", "gt": ["58%", "58"]}
+{"predict": "8", "gt": ["8"]}
+{"predict": "8", "gt": ["8"]}
+{"predict": "Spurs", "gt": ["spurs"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "24", "gt": ["24"]}
+{"predict": "24", "gt": ["24"]}
+{"predict": "26", "gt": ["26"]}
+{"predict": "38", "gt": ["38"]}
+{"predict": "Spurs", "gt": ["spurs"]}
+{"predict": "Bottle of Champagne", "gt": ["chocolate covered strawberries"]}
+{"predict": "Lakers", "gt": ["lakers", "los angeles lakers"]}
+{"predict": "2%", "gt": ["21%"]}
+{"predict": "44%", "gt": ["44%", "44"]}
+{"predict": "40%", "gt": ["39%", "39"]}
+{"predict": "27%", "gt": ["27%"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "9", "gt": ["9"]}
+{"predict": "30%", "gt": ["30%"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "The Bed, The Pool, The Balcony", "gt": ["the pool, the balcony, the bed", "the pool, the bed, the balcony", "the bed, the balcony, the pool", "the balcony, the pool, the bed", "the bed, the pool, the balcony", "the balcony, the bed, the pool"]}
+{"predict": "32%", "gt": ["32%"]}
+{"predict": "DINNER AT A ROMANTIC RESTAURANT", "gt": ["exploring a new city, snuggling by the fire", "snuggling by the fire, exploring a new city"]}
+{"predict": "Red Auerbach", "gt": ["red auerbach"]}
+{"predict": "Red Auerbach", "gt": ["red auerbach"]}
+{"predict": "Alex Hannum", "gt": ["alex hannum"]}
+{"predict": "1958", "gt": ["1958"]}
+{"predict": "11", "gt": ["11"]}
+{"predict": "18", "gt": ["18"]}
+{"predict": "16", "gt": ["16"]}
+{"predict": "DINNER AT A ROMANTIC RESTAURANT", "gt": ["spending the night in a hotel suite"]}
+{"predict": "Spending the night in a hotel suite", "gt": ["spending the night in a hotel suite"]}
+{"predict": "12%", "gt": ["12%"]}
+{"predict": "Torino", "gt": ["torino"]}
+{"predict": "Blackletter", "gt": ["blackletter"]}
+{"predict": "Norway", "gt": ["norway"]}
+{"predict": "RGB", "gt": ["rgb", "rgb (red-green-blue)"]}
+{"predict": "Snowboarding", "gt": ["snowboarding"]}
+{"predict": "465K", "gt": ["445k", "445"]}
+{"predict": "3.543 x 2.165", "gt": ["3.543 x 1.968"]}
+{"predict": "3.543 x 2.165", "gt": ["3.543 x 1.968"]}
+{"predict": "Chicago Bulls", "gt": ["chicago bulls"]}
+{"predict": "3.543 x 2.125", "gt": ["3.543 x 2.125"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "3.5 x 2", "gt": ["3.5 x 2"]}
+{"predict": "16M", "gt": ["12k", "12"]}
+{"predict": "Women's slalom skiing", "gt": ["women's slalom skiing"]}
+{"predict": "2", "gt": ["3"]}
+{"predict": "Vancouver", "gt": ["vancouver"]}
+{"predict": "Safe Zone", "gt": ["safe zone"]}
+{"predict": "0", "gt": ["0"]}
+{"predict": "Cathedral Catholic Academy", "gt": ["carlsbad seaside academy"]}
+{"predict": "194K", "gt": ["161.8k", "161.8"]}
+{"predict": "8K", "gt": ["32k", "32"]}
+{"predict": "Los Angeles Lakers", "gt": ["los angeles lakers"]}
+{"predict": "8.1M", "gt": ["29k", "29"]}
+{"predict": "1M", "gt": ["269k", "269"]}
+{"predict": "10,187", "gt": ["8,995"]}
+{"predict": "3.9%", "gt": ["3.9%"]}
+{"predict": "Miami Heat", "gt": ["miami heat"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "6", "gt": ["5"]}
+{"predict": "1 billion", "gt": ["1 billion"]}
+{"predict": "94%", "gt": ["94%"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "1600", "gt": ["1600"]}
+{"predict": "1883", "gt": ["1883"]}
+{"predict": "Sears, Roebuck & Company", "gt": ["sears, roebuck & company"]}
+{"predict": "1910", "gt": ["1910s", "1910"]}
+{"predict": "1923", "gt": ["1923"]}
+{"predict": "1933 Brush company", "gt": ["1930, brush company", "brush company, 1930"]}
+{"predict": "Black", "gt": ["black"]}
+{"predict": "1930s", "gt": ["1920s"]}
+{"predict": "Bristle trees", "gt": ["feathered trees"]}
+{"predict": "Germany", "gt": ["germany"]}
+{"predict": "Rockefeller Center", "gt": ["rockefeller center", "rockefeller"]}
+{"predict": "1,100,000", "gt": ["1,100,000"]}
+{"predict": "The Grinch Stole Christmas, A Charlie Brown Christmas", "gt": ["how the grinch stole christmas, a charlie brown christmas", "a charlie brown christmas, how the grinch stole christmas", "1965 a charlie brown christmas, 1957 how the grinch stole christmas", "1957 how the grinch stole christmas, 1965 a charlie brown christmas"]}
+{"predict": "196,595", "gt": ["196,595"]}
+{"predict": "1958", "gt": ["1958"]}
+{"predict": "1990s", "gt": ["1990s"]}
+{"predict": "Feathered trees", "gt": ["feathered trees"]}
+{"predict": "2000s", "gt": ["2000s", "2000"]}
+{"predict": "January 12, 2010", "gt": ["january 12, 2010"]}
+{"predict": "47522", "gt": ["47 522"]}
+{"predict": "1970-80s", "gt": ["1970-80s"]}
+{"predict": "489", "gt": ["489"]}
+{"predict": "7.0", "gt": ["7.0"]}
+{"predict": "650 meter", "gt": ["650 meter tall", "650 meter tall tree", "650 meter"]}
+{"predict": "Port-au-Prince", "gt": ["port-au-prince"]}
+{"predict": "8.5 kilometers", "gt": ["8.5 kilometers", "8.5 kilometers of cable"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "16%", "gt": ["16%"]}
+{"predict": "80%", "gt": ["80%"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "A Charlie Brown Christmas", "gt": ["a charlie brown christmas", "1965 a charlie brown christmas"]}
+{"predict": "Thailand", "gt": ["thailand"]}
+{"predict": "France", "gt": ["france"]}
+{"predict": "58%", "gt": ["58%", "58"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "2001", "gt": ["2001"]}
+{"predict": "15.5", "gt": ["15.5"]}
+{"predict": "51%", "gt": ["51%", "51"]}
+{"predict": "25%", "gt": ["25%"]}
+{"predict": "3", "gt": ["2"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "Accidental Deletion", "gt": ["accidental deletion"]}
+{"predict": "194.029", "gt": ["194,029"]}
+{"predict": "external hard drives", "gt": ["external hard drives"]}
+{"predict": "7873", "gt": ["7,873"]}
+{"predict": "164", "gt": ["164"]}
+{"predict": "Capacitive, Infrared", "gt": ["infrared (heat-sensitive and optical), capacitive", "capacitive, infrared (heat-sensitive and optical)", "capacitive, infrared", "infrared, capacitive"]}
+{"predict": "Personal contact, contaminated objects", "gt": ["personal contact, contaminated objects", "contaminated objects, personal contact"]}
+{"predict": "Capacitive, Infrared", "gt": ["infrared (heat-sensitive and optical), capacitive", "capacitive, infrared (heat-sensitive and optical)", "capacitive, infrared", "infrared, capacitive"]}
+{"predict": "Capacitive, Infrared", "gt": ["infrared (heat-sensitive and optical), capacitive", "capacitive, infrared (heat-sensitive and optical)", "capacitive, infrared", "infrared, capacitive"]}
+{"predict": "No", "gt": ["no"]}
+{"predict": "Infrared", "gt": ["infrared", "infrared (heat-sensitive and optical)"]}
+{"predict": "capacitive", "gt": ["capacitive"]}
+{"predict": "Capacitive", "gt": ["capacitive"]}
+{"predict": "Infrared", "gt": ["infrared"]}
+{"predict": "Infrared", "gt": ["infrared"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "1", "gt": ["7"]}
+{"predict": "14", "gt": ["2"]}
+{"predict": "Maine, N.H., Vt., N.Y., Mass., R.I., Conn., N.J., Del.", "gt": ["n.y., n.j.", "n.j., n.y."]}
+{"predict": "+100%", "gt": ["+100%", "100%"]}
+{"predict": "PP Innovations", "gt": ["fp innovations"]}
+{"predict": "Road Bike", "gt": ["road bike"]}
+{"predict": "Hybrid Bike", "gt": ["hybrid bike"]}
+{"predict": "23", "gt": ["23"]}
+{"predict": "September", "gt": ["sep", "sep 2020"]}
+{"predict": "440-620", "gt": ["440 to 620", "440 to 620 permanent jobs"]}
+{"predict": "Male", "gt": ["male"]}
+{"predict": "Blue", "gt": ["blue"]}
+{"predict": "Male", "gt": ["male"]}
+{"predict": "44134", "gt": ["44134"]}
+{"predict": "678", "gt": ["678"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "Pepper", "gt": ["pepper"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "Indonesia", "gt": ["indonesia"]}
+{"predict": "Pakistan", "gt": ["pakistan"]}
+{"predict": "Nigeria", "gt": ["nigeria"]}
+{"predict": "Rocoto", "gt": ["rocoto"]}
+{"predict": "Clove, Nutmeg", "gt": ["cinnamon, pepper", "pepper, cinnamon"]}
+{"predict": "Clove, Nutmeg", "gt": ["clove, nutmeg", "nutmeg, clove"]}
+{"predict": "Naga Viper pepper", "gt": ["trinidad scorpion butch t pepper"]}
+{"predict": "Capsicum", "gt": ["capsicum"]}
+{"predict": "Pepper", "gt": ["pepper"]}
+{"predict": "Canada", "gt": ["canada"]}
+{"predict": "$59.6 Billion", "gt": ["$117.2 billion"]}
+{"predict": "Canada", "gt": ["mexico"]}
+{"predict": "$8.3 Billion", "gt": ["$37.9 billion"]}
+{"predict": "17.1 years", "gt": ["17.1 years"]}
+{"predict": "1912", "gt": ["1912"]}
+{"predict": "1796", "gt": ["1796"]}
+{"predict": "Woodblocks", "gt": ["woodblocks"]}
+{"predict": "Woodblocks", "gt": ["gutenberg press"]}
+{"predict": "The Bible", "gt": ["the bible", "bible"]}
+{"predict": "Xerography", "gt": ["xerography"]}
+{"predict": "Laser printing", "gt": ["laser printing", "laser"]}
+{"predict": "84.42%", "gt": ["84.42%", "84.42"]}
+{"predict": "49%", "gt": ["49", "49%"]}
+{"predict": "29%", "gt": ["29%", "29"]}
+{"predict": "6%", "gt": ["6%", "6"]}
+{"predict": "13%", "gt": ["13%", "13"]}
+{"predict": "5", "gt": ["8"]}
+{"predict": "Spending more time with family", "gt": ["thinking of learning something new"]}
+{"predict": "Spending more time with family", "gt": ["taking good rest at home"]}
+{"predict": "14%", "gt": ["14%", "14"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "15", "gt": ["3"]}
+{"predict": "4", "gt": ["1"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "123", "gt": ["123"]}
+{"predict": "26", "gt": ["26"]}
+{"predict": "16", "gt": ["16"]}
+{"predict": "Italy", "gt": ["italy"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "1,040", "gt": ["295"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "China", "gt": ["iran"]}
+{"predict": "22", "gt": ["22"]}
+{"predict": "73,159", "gt": ["81,171", "81171"]}
+{"predict": "61%", "gt": ["61%", "61"]}
+{"predict": "46%", "gt": ["46%", "46"]}
+{"predict": "43%", "gt": ["43%", "43"]}
+{"predict": "135", "gt": ["135"]}
+{"predict": "England", "gt": ["england"]}
+{"predict": "Fever", "gt": ["fever"]}
+{"predict": "296", "gt": ["296"]}
+{"predict": "Jane Foster", "gt": ["black widow"]}
+{"predict": "Avengers", "gt": ["black widow, iron man, nick fury", "iron man, nick fury, black widow", "black widow, nick fury, iron man", "iron man, black widow, nick fury", "nick fury, iron man, black widow", "nick fury, black widow, iron man"]}
+{"predict": "Thanos", "gt": ["ultron, abomination", "abomination, ultron (deceased)", "ultron (deceased), abomination", "abomination, ultron"]}
+{"predict": "5", "gt": ["3"]}
+{"predict": "Avengers", "gt": ["gamora, ronan (deceased)", "gamora, ronan", "ronan (deceased), gamora", "ronan, gamora"]}
+{"predict": "Defenders", "gt": ["cosmic"]}
+{"predict": "Avengers", "gt": ["avengers"]}
+{"predict": "Nick Fury", "gt": ["maria hill, coulson", "coulson, maria hill"]}
+{"predict": "Hawkeye", "gt": ["baron mordo, the ancient one", "the ancient one, baron mordo"]}
+{"predict": "Steve Rogers", "gt": ["peggy carter"]}
+{"predict": "5", "gt": ["7"]}
+{"predict": "2", "gt": ["1"]}
+{"predict": "Ho Chi Minh City", "gt": ["vinh phuc"]}
+{"predict": "Hanoi", "gt": ["ha noi"]}
+{"predict": "26", "gt": ["26"]}
+{"predict": "17", "gt": ["3"]}
+{"predict": "Odin", "gt": ["frigga, odin, loki", "frigga, loki, odin", "odin, loki, frigga", "loki, odin, frigga", "loki, frigga, odin", "odin, frigga, loki"]}
+{"predict": "Saskatoon", "gt": ["saskatoon"]}
+{"predict": "Central West", "gt": ["regina"]}
+{"predict": "Regina", "gt": ["far north west"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "14", "gt": ["13"]}
+{"predict": "1654", "gt": ["1,654"]}
+{"predict": "24", "gt": ["24"]}
+{"predict": "Far North Central", "gt": ["far north central"]}
+{"predict": "Saskatoon, Regina", "gt": ["far north west, saskatoon", "saskatoon, far north west"]}
+{"predict": "9", "gt": ["9"]}
+{"predict": "Singapore", "gt": ["hong kong"]}
+{"predict": "Singapore", "gt": ["japan"]}
+{"predict": "Vision", "gt": ["quicksilver", "quicksilver (deceased)"]}
+{"predict": "Teammates", "gt": ["teammates"]}
+{"predict": "Teammates", "gt": ["enemies"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Family", "gt": ["family"]}
+{"predict": "Cough", "gt": ["cough"]}
+{"predict": "Shortness of breath", "gt": ["shortness of breath"]}
+{"predict": "Loss of smell and/or taste", "gt": ["loss of smell and/or taste"]}
+{"predict": "Don't touch your face", "gt": ["don't touch your face"]}
+{"predict": "Wear a cloth face mask in public", "gt": ["wear a cloth face mask in public"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Central Asia", "gt": ["north america and western europe"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "Seed Treatment", "gt": ["adjuvants, seed treatment", "seed treatment, adjuvants"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Grammar School/High School", "gt": ["grammar school/high school"]}
+{"predict": "Viral infection, Bacterial infection, Fungal infection", "gt": ["bacterial infection, fungal infection, viral infection", "viral infection, fungal infection, bacterial infection", "bacterial infection, viral infection, fungal infection", "viral infection, bacterial infection, fungal infection", "fungal infection, viral infection, bacterial infection", "fungal infection, bacterial infection, viral infection"]}
+{"predict": "33", "gt": ["33"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "Vietnam", "gt": ["vietnam"]}
+{"predict": "FMC", "gt": ["fmc"]}
+{"predict": "34,574", "gt": ["34,574"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "5", "gt": ["3"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "24", "gt": ["24"]}
+{"predict": "Fruit & Vegetable Farmers", "gt": ["fruit & vegetable farmers"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "19", "gt": ["19"]}
+{"predict": "Japan", "gt": ["singapore"]}
+{"predict": "Afghanistan, Philippines, Pakistan, Myanmar, Indonesia, Laos", "gt": ["philippines, afghanistan, pakistan", "pakistan, philippines, afghanistan", "afghanistan, pakistan, philippines", "pakistan, afghanistan, philippines", "philippines, pakistan, afghanistan", "afghanistan, philippines, pakistan"]}
+{"predict": "45,43,254", "gt": ["5085254", "50,85,254"]}
+{"predict": "1", "gt": ["4"]}
+{"predict": "15,784,363", "gt": ["1628746", "16,28,746"]}
+{"predict": "5", "gt": ["2"]}
+{"predict": "0", "gt": ["3"]}
+{"predict": "None", "gt": ["italy, belgium, france", "italy, france, belgium", "france, italy, belgium", "belgium, italy, france", "france, belgium, italy", "belgium, france, italy"]}
+{"predict": "Germany", "gt": ["france"]}
+{"predict": "Portugal", "gt": ["germany"]}
+{"predict": "Italy", "gt": ["france"]}
+{"predict": "Italy", "gt": ["italy"]}
+{"predict": "0", "gt": ["6"]}
+{"predict": "Systolic", "gt": ["diastolic", "diastolic mm hg (bottom number)", "diastolic mm hg"]}
+{"predict": "Systolic", "gt": ["systolic", "systolic mm hg (top number)", "systolic mm hg"]}
+{"predict": "80", "gt": ["80", "80 mm hg"]}
+{"predict": "90 or higher", "gt": ["90 or higher", "90 or higher mm hg"]}
+{"predict": "Diastolic", "gt": ["diastolic", "the lower of the two numbers", "the bottom number"]}
+{"predict": "Systolic", "gt": ["systolic", "the top number", "the higher of the two numbers"]}
+{"predict": "Change.", "gt": ["move more"]}
+{"predict": "Manage weight", "gt": ["don't smoke"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "16%", "gt": ["16%", "16"]}
+{"predict": "26%", "gt": ["26%", "26"]}
+{"predict": "21%", "gt": ["21%", "21"]}
+{"predict": "15%", "gt": ["8%", "8"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "52%", "gt": ["52%", "52"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "36%", "gt": ["36%", "36"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Calgary", "gt": ["calgary"]}
+{"predict": "71", "gt": ["71"]}
+{"predict": "5", "gt": ["3"]}
+{"predict": "3,217", "gt": ["3,217"]}
+{"predict": "853", "gt": ["853"]}
+{"predict": "342", "gt": ["342"]}
+{"predict": "167,000", "gt": ["167,000"]}
+{"predict": "employed", "gt": ["employed"]}
+{"predict": "55 years and older", "gt": ["25 to 54 years old", "25 to 54"]}
+{"predict": "15 to 24 years old", "gt": ["15 to 24 years old", "15 to 24"]}
+{"predict": "95.8%", "gt": ["95.8%"]}
+{"predict": "91.4%", "gt": ["88.0%"]}
+{"predict": "Surabaya", "gt": ["surabaya"]}
+{"predict": "14.3%", "gt": ["14.3%"]}
+{"predict": "43.3%", "gt": ["43.3%"]}
+{"predict": "22.5%", "gt": ["22.5%"]}
+{"predict": "87.0%", "gt": ["87.0%"]}
+{"predict": "Retail trade", "gt": ["retail trade"]}
+{"predict": "Cleaning products", "gt": ["cleaning products"]}
+{"predict": "19.3%", "gt": ["80.7%"]}
+{"predict": "68.3%", "gt": ["68.3%", "68.3"]}
+{"predict": "Muslim", "gt": ["muslim"]}
+{"predict": "70%", "gt": ["70%"]}
+{"predict": "100%", "gt": ["100%"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "14.3%", "gt": ["14.3%"]}
+{"predict": "Services", "gt": ["services"]}
+{"predict": "Free breakfast", "gt": ["free breakfast"]}
+{"predict": "Proximity to transit and dining", "gt": ["proximity to transit and dining"]}
+{"predict": "Free breakfast", "gt": ["comfortable chair"]}
+{"predict": "Free Parking", "gt": ["free parking"]}
+{"predict": "High end coffee machine", "gt": ["high end coffee machine"]}
+{"predict": "iPad for guests", "gt": ["wired room with one remote"]}
+{"predict": "Complimentary bottled water", "gt": ["complementary bottled water"]}
+{"predict": "Pillow", "gt": ["pillow"]}
+{"predict": "15,074", "gt": ["2"]}
+{"predict": "Sports Arena", "gt": ["sports arena"]}
+{"predict": "Convention Center", "gt": ["convention center"]}
+{"predict": "38", "gt": ["38"]}
+{"predict": "Red", "gt": ["red"]}
+{"predict": "38", "gt": ["38"]}
+{"predict": "25-44", "gt": ["45-64"]}
+{"predict": "Burlington County", "gt": ["atlantic county"]}
+{"predict": "Burlington, Ocean, Atlantic", "gt": ["atlantic county, ocean county, burlington county", "atlantic county, burlington county, ocean county", "burlington county, ocean county, atlantic county", "ocean county, atlantic county, burlington county", "ocean county, burlington county, atlantic county", "burlington county, atlantic county, ocean county"]}
+{"predict": "1739", "gt": ["1857"]}
+{"predict": "1739", "gt": ["1739"]}
+{"predict": "74", "gt": ["74"]}
+{"predict": "A Town", "gt": ["winnisimmet"]}
+{"predict": "112", "gt": ["112"]}
+{"predict": "7%", "gt": ["7%", "7"]}
+{"predict": "70%", "gt": ["70%"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "25%", "gt": ["14%", "14"]}
+{"predict": "3,500", "gt": ["3,500"]}
+{"predict": "Vancouver", "gt": ["montreal, vancouver", "vancouver, montreal"]}
+{"predict": "PPE", "gt": ["ppe"]}
+{"predict": "450", "gt": ["450"]}
+{"predict": "South Australia", "gt": ["south australia"]}
+{"predict": "37%", "gt": ["37%", "37"]}
+{"predict": "May 18", "gt": ["may 31"]}
+{"predict": "COVID Tray, Airway Assistant, Airway Operator, Team Leader, Runner #1, Runner #2, Runner #3, Airway Trolley, Bronchoscope, Cardiac Arrest Trolley", "gt": ["covid tray"]}
+{"predict": "63%", "gt": ["63%", "63"]}
+{"predict": "92%", "gt": ["92%", "92"]}
+{"predict": "Mail, Facebook, Phone Calls", "gt": ["through email, through phone calls, through facebook or whatsapp", "through phone calls, through email, through facebook or whatsapp", "through phone calls, through facebook or whatsapp, through email", "through facebook or whatsapp, through phone calls, through email", "through facebook or whatsapp, through email, through phone calls", "through email, through facebook or whatsapp, through phone calls"]}
+{"predict": "64%", "gt": ["64%", "64"]}
+{"predict": "Email", "gt": ["through email"]}
+{"predict": "70%", "gt": ["70%", "70"]}
+{"predict": "71%", "gt": ["71%", "71"]}
+{"predict": "789", "gt": ["804"]}
+{"predict": "53%", "gt": ["53%", "53"]}
+{"predict": "Vietnam", "gt": ["vietnam"]}
+{"predict": "93%", "gt": ["93%", "93"]}
+{"predict": "Benjamin Franklin", "gt": ["benjamin franklin"]}
+{"predict": "Independence Hall", "gt": ["independence hall"]}
+{"predict": "In God We Trust", "gt": ["in god we trust"]}
+{"predict": "$147 billion", "gt": ["$82 billion"]}
+{"predict": "Emergency Care Benefit, Emergency Support Benefit", "gt": ["support benefit, care benefit", "care benefit, support benefit", "emergency care benefits, emergency support benefit", "emergency support benefit, emergency care benefits"]}
+{"predict": "87%", "gt": ["87%", "87"]}
+{"predict": "garbage bin", "gt": ["garbage bin"]}
+{"predict": "Remove masks", "gt": ["remove masks"]}
+{"predict": "1,699", "gt": ["1,699", "1699"]}
+{"predict": "1,441", "gt": ["1,841", "1841"]}
+{"predict": "2,344", "gt": ["2,344", "2344"]}
+{"predict": "94.0", "gt": ["1,078", "1078"]}
+{"predict": "94.0", "gt": ["940"]}
+{"predict": "$17.5m", "gt": ["$17.5m"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "$115.5m", "gt": ["$115.5m"]}
+{"predict": "53%", "gt": ["53%", "53"]}
+{"predict": "742", "gt": ["742"]}
+{"predict": "158", "gt": ["159"]}
+{"predict": "21%", "gt": ["21%", "21"]}
+{"predict": "13%", "gt": ["13%", "13"]}
+{"predict": "South African Reserve Bank", "gt": ["south african reserve bank"]}
+{"predict": "64%", "gt": ["57%", "57"]}
+{"predict": "3%", "gt": ["3%", "3"]}
+{"predict": "2m", "gt": ["2m"]}
+{"predict": "Window", "gt": ["window"]}
+{"predict": "59%", "gt": ["59", "59%"]}
+{"predict": "CLOSED", "gt": ["closed"]}
+{"predict": "4", "gt": ["3"]}
+{"predict": "AR", "gt": ["delhi, telangana", "telangana, delhi"]}
+{"predict": "Lakshadweep", "gt": ["lakshadweep"]}
+{"predict": "0.7%", "gt": ["0.7%"]}
+{"predict": "Maharashtra", "gt": ["maharashtra"]}
+{"predict": "24%", "gt": ["24%"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "Bihar", "gt": ["mizoram"]}
+{"predict": "49%", "gt": ["49%", "49"]}
+{"predict": "AP, KA", "gt": ["ka, ap", "ap, ka"]}
+{"predict": "Tamil Nadu", "gt": ["tamil nadu"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "62", "gt": ["77"]}
+{"predict": "US", "gt": ["us"]}
+{"predict": "46", "gt": ["46"]}
+{"predict": "4", "gt": ["8"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "South Asia", "gt": ["south asia"]}
+{"predict": "Iran", "gt": ["iran"]}
+{"predict": "Italy", "gt": ["italy"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "47", "gt": ["24"]}
+{"predict": "China, 2,835", "gt": ["china, 2,835"]}
+{"predict": "Iran", "gt": ["iran"]}
+{"predict": "Italy", "gt": ["italy"]}
+{"predict": "16", "gt": ["6"]}
+{"predict": "1.25", "gt": ["1.25"]}
+{"predict": "Afghanistan, Nepal, Sri Lanka", "gt": ["sri lanka, afghanistan, nepal", "sri lanka, nepal, afghanistan", "afghanistan, sri lanka, nepal", "nepal, sri lanka, afghanistan", "nepal, afghanistan, sri lanka", "afghanistan, nepal, sri lanka"]}
+{"predict": "5", "gt": ["7"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Asia", "gt": ["africa"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "COMMON SYMPTOMS, SEVERE CASES", "gt": ["severe cases, common symptoms", "common symptoms, severe cases"]}
+{"predict": "Sri Lanka", "gt": ["sri lanka"]}
+{"predict": "Fever, cough, sore throat", "gt": ["runny nose, sore throat, cough", "sore throat, cough, runny nose", "runny nose, cough, sore throat", "cough, runny nose, sore throat", "sore throat, runny nose, cough", "cough, sore throat, runny nose"]}
+{"predict": "Pneumonia, Severe Respiratory Disease", "gt": ["high fever, severe respiratory disease, pneumonia", "severe respiratory disease, high fever, pneumonia", "high fever, pneumonia, severe respiratory disease", "severe respiratory disease, pneumonia, high fever", "pneumonia, severe respiratory disease, high fever", "pneumonia, high fever, severe respiratory disease"]}
+{"predict": "South Africa", "gt": ["south africa"]}
+{"predict": "Visual Capitalist, Texas Freedom Network", "gt": ["texas precious metals, visual capitalist", "visual capitalist, texas precious metals"]}
+{"predict": "3", "gt": ["1"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "People who have flu-like symptoms.", "gt": ["people who have flu-like symptoms"]}
+{"predict": "Alcohol-based gel", "gt": ["alcohol-based gel", "an alcohol-based gel"]}
+{"predict": "Self-medicate", "gt": ["self-medicate"]}
+{"predict": "Groupon, Living Social", "gt": ["living social, groupon", "groupon, living social and others", "groupon, living social", "living social and others, groupon"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "3", "gt": ["4"]}
+{"predict": "green", "gt": ["green"]}
+{"predict": "orange", "gt": ["orange"]}
+{"predict": "yellow", "gt": ["yellow"]}
+{"predict": "1781", "gt": ["1781"]}
+{"predict": "1792", "gt": ["1792"]}
+{"predict": "1816", "gt": ["1816"]}
+{"predict": "9", "gt": ["17"]}
+{"predict": "93%", "gt": ["93%"]}
+{"predict": "2007", "gt": ["2007"]}
+{"predict": "1.5 billion people", "gt": ["1.5 billion people", "1.5 billion"]}
+{"predict": "54 million", "gt": ["54 million"]}
+{"predict": "9.340", "gt": ["9.340"]}
+{"predict": "44", "gt": ["44"]}
+{"predict": "4.5 BILLION", "gt": ["2.5 billion"]}
+{"predict": "85%", "gt": ["85%", "85"]}
+{"predict": "51%", "gt": ["62%", "62"]}
+{"predict": "53%", "gt": ["53%", "53"]}
+{"predict": "7%", "gt": ["64%", "64"]}
+{"predict": "2014", "gt": ["2014"]}
+{"predict": "105%", "gt": ["105%", "105"]}
+{"predict": "50%", "gt": ["50%", "50"]}
+{"predict": "160 MILLION", "gt": ["105 million"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "58%", "gt": ["39%", "39"]}
+{"predict": "Numeracy, Literacy", "gt": ["literacy, numeracy", "numeracy, literacy"]}
+{"predict": "Responsibility, Communication, Problem solving", "gt": ["responsibility, problem solving, communication", "problem solving, responsibility, communication", "problem solving, communication, responsibility", "responsibility, communication, problem solving", "communication, problem solving, responsibility", "communication, responsibility, problem solving"]}
+{"predict": "12%", "gt": ["58%", "58"]}
+{"predict": "30 MILLION", "gt": ["30 million"]}
+{"predict": "Education Sector", "gt": ["education sector"]}
+{"predict": "50%", "gt": ["50%", "50"]}
+{"predict": "15.4%", "gt": ["15.4", "15.4%"]}
+{"predict": "Secondary/Post-Secondary", "gt": ["secondary/post-secondary"]}
+{"predict": "$4.6B", "gt": ["$4.6b"]}
+{"predict": "6.4%", "gt": ["6.4", "6.4%"]}
+{"predict": "Bangladesh", "gt": ["bangladesh"]}
+{"predict": "25%", "gt": ["25%"]}
+{"predict": "Kenya", "gt": ["kenya"]}
+{"predict": "2.5B", "gt": ["2.5b"]}
+{"predict": "400M", "gt": ["400m", "400m commitments"]}
+{"predict": "600M", "gt": ["600m", "600m commitments"]}
+{"predict": "38,569", "gt": ["38,569"]}
+{"predict": "3,744", "gt": ["3,744"]}
+{"predict": "425,000+", "gt": ["425,000", "425,000+"]}
+{"predict": "Less than 24 hours", "gt": ["less than 24 hours"]}
+{"predict": "3000", "gt": ["3,000"]}
+{"predict": "25,000", "gt": ["25,000"]}
+{"predict": "211 million", "gt": ["211 million", "211 million people"]}
+{"predict": "60%", "gt": ["60"]}
+{"predict": "4000+", "gt": ["4,000+"]}
+{"predict": "15%", "gt": ["10%"]}
+{"predict": "China", "gt": ["singapore"]}
+{"predict": "Japan, South Korea, Singapore", "gt": ["japan, singapore, south korea", "south korea, japan, singapore", "japan, south korea, singapore", "south korea, singapore, japan", "singapore, japan, south korea", "singapore, south korea, japan"]}
+{"predict": "2004", "gt": ["2004"]}
+{"predict": "6", "gt": ["5"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "89%", "gt": ["89%"]}
+{"predict": "39%", "gt": ["39%"]}
+{"predict": "8.7 MILLION", "gt": ["8.7 million"]}
+{"predict": "40.5 MILLION", "gt": ["40.5 million"]}
+{"predict": "100 MILLION", "gt": ["100 million"]}
+{"predict": "16 MILLION", "gt": ["16 million"]}
+{"predict": "600,000", "gt": ["600,000"]}
+{"predict": "80,000", "gt": ["175,000"]}
+{"predict": "1694", "gt": ["1694"]}
+{"predict": "Metro Bank", "gt": ["metro bank"]}
+{"predict": "Midland", "gt": ["midland"]}
+{"predict": "1775", "gt": ["1775"]}
+{"predict": "HSBC", "gt": ["natwest/rbs"]}
+{"predict": "587300", "gt": ["507300"]}
+{"predict": "17%", "gt": ["17%"]}
+{"predict": "China", "gt": ["chi", "china"]}
+{"predict": "USA", "gt": ["uk"]}
+{"predict": "Royal Bank of Scotland, UK", "gt": ["royal bank of scotland, uk"]}
+{"predict": "4", "gt": ["6"]}
+{"predict": "Citigroup", "gt": ["wells fargo"]}
+{"predict": "Fortis Bank, Dexia", "gt": ["fortis bank, kbc group, dexia", "kbc group, dexia, fortis bank", "kbc group, fortis bank, dexia", "fortis bank, dexia, kbc group", "dexia, fortis bank, kbc group", "dexia, kbc group, fortis bank"]}
+{"predict": "$757bn", "gt": ["$21.4bn"]}
+{"predict": "UBS", "gt": ["ubs"]}
+{"predict": "2", "gt": ["4"]}
+{"predict": "HSBC", "gt": ["lloyds"]}
+{"predict": "$708bn", "gt": ["$708bn"]}
+{"predict": "45", "gt": ["2044", "$2044bn", "$2,044bn", "2,044"]}
+{"predict": "Citigroup", "gt": ["wells fargo"]}
+{"predict": "Citigroup", "gt": ["citigroup"]}
+{"predict": "WestLB, Hypo Real Estate Holding, Bayern LB", "gt": ["bayerische landesbank, westlb", "westlb, bayerische landesbank"]}
+{"predict": "HSBC", "gt": ["hsbc, $2,354bn, $104.2bn"]}
+{"predict": "$444bn", "gt": ["$444bn"]}
+{"predict": "874", "gt": ["834", "$834bn"]}
+{"predict": "Royal Bank of Scotland", "gt": ["deutsche bank"]}
+{"predict": "Royal Bank of Scotland, UK", "gt": ["icbc, china"]}
+{"predict": "Portfolio School, Graphic Design Books, Graphic Design College", "gt": ["graphic design books, portfolio school, graphic design college", "graphic design college, portfolio school, graphic design books", "portfolio school, graphic design college, graphic design books", "graphic design college, graphic design books, portfolio school", "portfolio school, graphic design books, graphic design college", "graphic design books, graphic design college, portfolio school"]}
+{"predict": "Graphic Design Books", "gt": ["online tutorials"]}
+{"predict": "Online Tutorials", "gt": ["graphic design college"]}
+{"predict": "Russia", "gt": ["russia"]}
+{"predict": "$4.6B", "gt": ["$4.6b"]}
+{"predict": "$4.1B", "gt": ["$4.1b"]}
+{"predict": "2008", "gt": ["1992"]}
+{"predict": "Americas", "gt": ["americas"]}
+{"predict": "Africa", "gt": ["africa"]}
+{"predict": "green", "gt": ["green"]}
+{"predict": "Japan", "gt": ["japan"]}
+{"predict": "Color Theory", "gt": ["color theory"]}
+{"predict": "Texas", "gt": ["texas"]}
+{"predict": "Adobe AfterEffect", "gt": ["adobe aftereffect"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "88%", "gt": ["88%"]}
+{"predict": "76%", "gt": ["76%"]}
+{"predict": "55%", "gt": ["55%"]}
+{"predict": "24%", "gt": ["63%"]}
+{"predict": "24%", "gt": ["24%"]}
+{"predict": "13%", "gt": ["13%"]}
+{"predict": "6", "gt": ["5"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "55%", "gt": ["55%"]}
+{"predict": "Japan", "gt": ["japan"]}
+{"predict": "$33,372", "gt": ["$33,372"]}
+{"predict": "Saudi Arabia", "gt": ["saudi arabia"]}
+{"predict": "United States", "gt": ["united states"]}
+{"predict": "45%", "gt": ["45%"]}
+{"predict": "36%", "gt": ["36%", "36"]}
+{"predict": "Local social services", "gt": ["local social services, religious organizations, health charities", "religious organizations, health charities, local social services", "health charities, local social services, religious organizations", "health charities, religious organizations, local social services", "religious organizations, local social services, health charities", "local social services, health charities, religious organizations"]}
+{"predict": "9", "gt": ["11"]}
+{"predict": "Gumtree, bidorbuy.co.za", "gt": ["bidorbuy.co.za, gumtree", "gumtree, bidorbuy.co.za"]}
+{"predict": "PayPal", "gt": ["paypal"]}
+{"predict": "PayPal", "gt": ["paypal"]}
+{"predict": "Chase", "gt": ["american express, bank of america, chase", "chase, american express, bank of america", "bank of america, chase, american express", "chase, bank of america, american express", "american express, chase, bank of america", "bank of america, american express, chase"]}
+{"predict": "24%", "gt": ["24%"]}
+{"predict": "81B", "gt": ["$81b"]}
+{"predict": "wirecompare.com", "gt": ["wirecompare.com"]}
+{"predict": "Deception, Rudeness, Incompetency", "gt": ["rudeness, deception, incompetency", "rudeness, incompetency, deception", "incompetency, rudeness, deception", "deception, incompetency, rudeness", "deception, rudeness, incompetency", "incompetency, deception, rudeness"]}
+{"predict": "Ease", "gt": ["ease of access to customer service"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "38%", "gt": ["38%"]}
+{"predict": "Consumable", "gt": ["consumable, personalization, durable", "durable, consumable, personalization", "durable, personalization, consumable", "personalization, consumable, durable", "consumable, durable, personalization", "personalization, durable, consumable"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "Face", "gt": ["face"]}
+{"predict": "9", "gt": ["16"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "2.9%", "gt": ["2.9%", "2.9"]}
+{"predict": "39.8%", "gt": ["39.8%", "39.8"]}
+{"predict": "428.6 billion", "gt": ["428.6 billion", "£428.6 billion"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Avoid contact with animals, Avoid contact with people, Keep the distance", "gt": ["3, 5, 2", "2, 5, 3", "2, 3, 5", "avoid the crowd, avoid contact with animals, avoid contact with people", "3, 2, 5", "5, 3, 2", "avoid contact with people, avoid the crowd, avoid contact with animals", "avoid contact with animals, avoid contact with people, avoid the crowd", "avoid contact with animals, avoid the crowd, avoid contact with people", "5, 2, 3", "avoid contact with people, avoid contact with animals, avoid the crowd", "avoid the crowd, avoid contact with people, avoid contact with animals"]}
+{"predict": "Wear A face mask, Avoid contact with animals, Avoid contact with people", "gt": ["wash your hand often, keep the distance, wear a face mask", "6, 1, 4", "wear a face mask, keep the distance, wash your hand often", "1, 4, 6", "6, 4, 1", "keep the distance, wear a face mask, wash your hand often", "4, 1, 6", "wear a face mask, wash your hand often, keep the distance", "keep the distance, wash your hand often, wear a face mask", "1, 6, 4", "wash your hand often, wear a face mask, keep the distance", "4, 6, 1"]}
+{"predict": "Eyes, nose, mouth", "gt": ["3"]}
+{"predict": "Cow", "gt": ["fish, cow", "cow, fish"]}
+{"predict": "Postponed, Held", "gt": ["elections postponed, elections held", "elections held, elections postponed"]}
+{"predict": "64", "gt": ["16"]}
+{"predict": "33", "gt": ["43"]}
+{"predict": "168750", "gt": ["$34,375"]}
+{"predict": "302", "gt": ["302"]}
+{"predict": "84%", "gt": ["84%"]}
+{"predict": "93%", "gt": ["93%"]}
+{"predict": "56%", "gt": ["34%"]}
+{"predict": "87%", "gt": ["87%"]}
+{"predict": "Romania", "gt": ["romania"]}
+{"predict": "Hungary", "gt": ["hungary"]}
+{"predict": "Michael Phelps", "gt": ["michael phelps"]}
+{"predict": "China", "gt": ["china"]}
+{"predict": "6.7m", "gt": ["6.7m", "6.7"]}
+{"predict": "10568", "gt": ["10,568"]}
+{"predict": "137000km", "gt": ["137,000km"]}
+{"predict": "8.2m", "gt": ["8.2m", "8.2"]}
+{"predict": "1912", "gt": ["1912", "1912 olympics."]}
+{"predict": "Oscar Swahn", "gt": ["oscar swahn"]}
+{"predict": "280", "gt": ["64", "aged 64 and 280 days"]}
+{"predict": "1900", "gt": ["1900"]}
+{"predict": "Shooting", "gt": ["shooting"]}
+{"predict": "25%", "gt": ["25%"]}
+{"predict": "1.3 billion", "gt": ["1.3 billion"]}
+{"predict": "900 million", "gt": ["900 million"]}
+{"predict": "2.6 BILLION", "gt": ["2.6 billion"]}
+{"predict": "900 million", "gt": ["100 million"]}
+{"predict": "$1,000", "gt": ["$1,000"]}
+{"predict": "$11,000", "gt": ["$11,000"]}
+{"predict": "$18,000", "gt": ["$18,000"]}
+{"predict": "900 million", "gt": ["900 million"]}
+{"predict": "71,207", "gt": ["71,207"]}
+{"predict": "37,045", "gt": ["37,045"]}
+{"predict": "22519", "gt": ["22,519"]}
+{"predict": "9,478", "gt": ["15,210"]}
+{"predict": "90,911", "gt": ["90,911"]}
+{"predict": "35%", "gt": ["35%", "35"]}
+{"predict": "Samsung", "gt": ["samsung"]}
+{"predict": "Visa", "gt": ["visa"]}
+{"predict": "3M+", "gt": ["3m+", "3 m+"]}
+{"predict": "16.6%", "gt": ["16.6%"]}
+{"predict": "33.5 million", "gt": ["33.5 million"]}
+{"predict": "22.9%", "gt": ["22.9%"]}
+{"predict": "82", "gt": ["82"]}
+{"predict": "Athens", "gt": ["athens"]}
+{"predict": "every 4 years", "gt": ["every 4 years"]}
+{"predict": "100 million", "gt": ["100 million"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "7", "gt": ["7"]}
+{"predict": "98", "gt": ["98"]}
+{"predict": "6000", "gt": ["6000"]}
+{"predict": "$51BN", "gt": ["$51bn"]}
+{"predict": "15", "gt": ["15"]}
+{"predict": "31", "gt": ["31"]}
+{"predict": "$122,000", "gt": ["$122,000"]}
+{"predict": "15", "gt": ["15"]}
+{"predict": "Japan", "gt": ["great britain"]}
+{"predict": "Great Britain", "gt": ["japan"]}
+{"predict": "120K", "gt": ["120k", "120 k"]}
+{"predict": "Great Britain", "gt": ["germany"]}
+{"predict": "7", "gt": ["7"]}
+{"predict": "17", "gt": ["17 days", "17"]}
+{"predict": "306,652", "gt": ["306,652"]}
+{"predict": "53,601", "gt": ["53,601"]}
+{"predict": "53,601", "gt": ["3,019,455"]}
+{"predict": "17", "gt": ["16"]}
+{"predict": "9000", "gt": ["9"]}
+{"predict": "40,000", "gt": ["1"]}
+{"predict": "23", "gt": ["23"]}
+{"predict": "91%", "gt": ["91"]}
+{"predict": "27", "gt": ["27"]}
+{"predict": "Television", "gt": ["television"]}
+{"predict": "23%", "gt": ["23"]}
+{"predict": "Germany", "gt": ["germany"]}
+{"predict": "Great Britain", "gt": ["great britain"]}
+{"predict": "15%", "gt": ["15", "15 percent"]}
+{"predict": "78%", "gt": ["77%"]}
+{"predict": "$44K", "gt": ["$36k"]}
+{"predict": "$26K", "gt": ["$24k"]}
+{"predict": "Senior Population", "gt": ["senior population"]}
+{"predict": "60 minutes", "gt": ["60 minutes"]}
+{"predict": "35%", "gt": ["23", "23%"]}
+{"predict": "80%", "gt": ["80", "80%"]}
+{"predict": "27\"", "gt": ["27\""]}
+{"predict": "Michael Phelps", "gt": ["michael phelps"]}
+{"predict": "65\"", "gt": ["110\""]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "64", "gt": ["64 years", "64"]}
+{"predict": "Marjorie Gestring", "gt": ["marjorie gestring"]}
+{"predict": "USA", "gt": ["usa"]}
+{"predict": "China, US", "gt": ["china, us", "us, china"]}
+{"predict": "2239", "gt": ["2239"]}
+{"predict": "92", "gt": ["102"]}
+{"predict": "5", "gt": ["5", "5 silver"]}
+{"predict": "475g", "gt": ["475g"]}
+{"predict": "7m", "gt": ["7m", "7m line"]}
+{"predict": "20m x 40m", "gt": ["20m x 40m"]}
+{"predict": "450", "gt": ["16"]}
+{"predict": "122", "gt": ["40"]}
+{"predict": "26", "gt": ["29"]}
+{"predict": "Germany", "gt": ["germany"]}
+{"predict": "5", "gt": ["4"]}
+{"predict": "France", "gt": ["czech repub"]}
+{"predict": "Germany", "gt": ["iran, switzerland", "switzerland, iran"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "February 23rd, 2014", "gt": ["sunday, february 23rd, 2014"]}
+{"predict": "95", "gt": ["37"]}
+{"predict": "75296", "gt": ["72,086"]}
+{"predict": "4", "gt": ["6"]}
+{"predict": "118", "gt": ["118"]}
+{"predict": "China", "gt": ["italy, china", "china, italy"]}
+{"predict": "Nagano, Japan", "gt": ["nagano, japan", "nagano", "japan"]}
+{"predict": "59", "gt": ["59"]}
+{"predict": "Japan", "gt": ["japan"]}
+{"predict": "4", "gt": ["2"]}
+{"predict": "4", "gt": ["1"]}
+{"predict": "Heart", "gt": ["3"]}
+{"predict": "2", "gt": ["4"]}
+{"predict": "Hand wash", "gt": ["hand wash"]}
+{"predict": "310.618", "gt": ["310,618"]}
+{"predict": "Novak Djokovic", "gt": ["novak djokvic"]}
+{"predict": "6,099", "gt": ["10,759"]}
+{"predict": "olympics", "gt": ["olympics"]}
+{"predict": "team", "gt": ["twitter"]}
+{"predict": "Samsung", "gt": ["samsung"]}
+{"predict": "351,195", "gt": ["351,195"]}
+{"predict": "Britain", "gt": ["britain"]}
+{"predict": "Michael Phelps", "gt": ["michael phelps"]}
+{"predict": "8%", "gt": ["8%"]}
+{"predict": "Cardiovascular disease", "gt": ["copd"]}
+{"predict": "14", "gt": ["14"]}
+{"predict": "Camels", "gt": ["camels"]}
+{"predict": "Swimming", "gt": ["boxing"]}
+{"predict": "1", "gt": ["1"]}
+{"predict": "1984", "gt": ["1984"]}
+{"predict": "Oskar Wetzell", "gt": ["oskar wetzell"]}
+{"predict": "5500", "gt": ["6500"]}
+{"predict": "2500000", "gt": ["2,500,000"]}
+{"predict": "Rome", "gt": ["rome"]}
+{"predict": "20", "gt": ["20", "20 sports"]}
+{"predict": "Rome 1960", "gt": ["1960"]}
+{"predict": "Basketball arena", "gt": ["velodrome"]}
+{"predict": "Olympic Stadium", "gt": ["olympic stadium"]}
+{"predict": "Olympic Stadium", "gt": ["olympic stadium"]}
+{"predict": "The Copper Box", "gt": ["basketball arena"]}
+{"predict": "The Copper Box", "gt": ["basketball arena"]}
+{"predict": "Olympic Stadium", "gt": ["olympic stadium"]}
+{"predict": "The Copper Box", "gt": ["velodrome"]}
+{"predict": "12 August 2012", "gt": ["12 august 2012"]}
+{"predict": "27 July 2012", "gt": ["27 july 2012"]}
+{"predict": "Usain Bolt", "gt": ["walter tewksbury"]}
+{"predict": "USA", "gt": ["usa", "(usa)"]}
+{"predict": "1904", "gt": ["1904"]}
+{"predict": "Michael Johnson", "gt": ["joe deloach"]}
+{"predict": "Michael Johnson", "gt": ["19.32"]}
+{"predict": "19.19", "gt": ["19.19"]}
+{"predict": "Michael Johnson", "gt": ["michael johnson"]}
+{"predict": "Michael Marsh", "gt": ["michael marsh"]}
+{"predict": "19.80", "gt": ["19.75"]}
+{"predict": "Michael Johnson", "gt": ["carl lewis"]}
+{"predict": "Wieber, Raisman, Douglas", "gt": ["raisman, wieber, douglas", "wieber, raisman, douglas", "douglas, wieber, raisman", "raisman, douglas, wieber", "douglas, raisman, wieber", "wieber, douglas, raisman"]}
+{"predict": "Lochte, Raisman, Franklin", "gt": ["michael phelps, lochte, franklin", "lochte, michael phelps, franklin", "lochte, franklin, michael phelps", "franklin, michael phelps, lochte", "michael phelps, franklin, lochte", "franklin, lochte, michael phelps"]}
+{"predict": "Durant", "gt": ["durant, lebron james", "lebron james, durant"]}
+{"predict": "Michael Phelps", "gt": ["michael phelps"]}
+{"predict": "Hope Solo", "gt": ["hope solo"]}
+{"predict": "LeBron James", "gt": ["lebron james"]}
+{"predict": "Michael Phelps", "gt": ["michael phelps"]}
+{"predict": "Franklin", "gt": ["franklin"]}
+{"predict": "2", "gt": ["3"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "2", "gt": ["3"]}
+{"predict": "Franklin", "gt": ["raisman"]}
+{"predict": "Franklin", "gt": ["douglas"]}
+{"predict": "LeBron James", "gt": ["lebron james"]}
+{"predict": "purple", "gt": ["purple"]}
+{"predict": "iPhone 3G", "gt": ["blackberry"]}
+{"predict": "January to March", "gt": ["from january to march", "january to march"]}
+{"predict": "31%", "gt": ["31%", "31"]}
+{"predict": "30%", "gt": ["30%"]}
+{"predict": "iPhone 3G", "gt": ["iphone 3g"]}
+{"predict": "10", "gt": ["10"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "40 minutes", "gt": ["40 minutes"]}
+{"predict": "2009", "gt": ["2009"]}
+{"predict": "WhatsApp", "gt": ["whatsapp"]}
+{"predict": "134 Million", "gt": ["134 million"]}
+{"predict": "291 Million", "gt": ["291 million"]}
+{"predict": "10 minutes", "gt": ["10 minutes"]}
+{"predict": "Pinterest", "gt": ["youtube"]}
+{"predict": "5.3 Million", "gt": ["5.3 million"]}
+{"predict": "27%", "gt": ["27%", "27"]}
+{"predict": "17%", "gt": ["17%", "17"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "18%", "gt": ["18%", "18"]}
+{"predict": "Trade in Value-Added", "gt": ["trade in value-added"]}
+{"predict": "552,076", "gt": ["552,076", "552076"]}
+{"predict": "121,895", "gt": ["121,895", "121895"]}
+{"predict": "169%", "gt": ["159%"]}
+{"predict": "73%", "gt": ["73%"]}
+{"predict": "400 million", "gt": ["400 million"]}
+{"predict": "73%", "gt": ["73%"]}
+{"predict": "320 million", "gt": ["320 million"]}
+{"predict": "24.6%", "gt": ["24.6%"]}
+{"predict": "Second", "gt": ["second"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "Kickstarter", "gt": ["kickstarter"]}
+{"predict": "161,821", "gt": ["22,232", "22232"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "15-34", "gt": ["15-34"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "35+", "gt": ["35+", "older than 35"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "63%", "gt": ["63%"]}
+{"predict": "Email", "gt": ["blogging"]}
+{"predict": "30%", "gt": ["30%"]}
+{"predict": "41%", "gt": ["41%"]}
+{"predict": "54%", "gt": ["65%"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "83%", "gt": ["83%", "83"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "National Geographic", "gt": ["national geographic"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "Google+", "gt": ["google+"]}
+{"predict": "7", "gt": ["7"]}
+{"predict": "Germany", "gt": ["germany"]}
+{"predict": "Brazil", "gt": ["brazil"]}
+{"predict": "U.S.", "gt": ["france, u.s.", "u.s., france"]}
+{"predict": "U.S., Brazil", "gt": ["u.s., brazil", "brazil, u.s."]}
+{"predict": "4", "gt": ["5"]}
+{"predict": "120%", "gt": ["120%"]}
+{"predict": "80%", "gt": ["80%"]}
+{"predict": "69%", "gt": ["69%"]}
+{"predict": "30%", "gt": ["30%"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "Infographics", "gt": ["infographics, images, videos", "images, videos, infographics", "videos, images, infographics", "infographics, videos, images", "images, infographics, videos", "videos, infographics, images"]}
+{"predict": "Infographics, Videos, Images", "gt": ["written copy, videos, links to longer content", "written copy, links to longer content, videos", "videos, links to longer content, written copy", "videos, written copy, links to longer content", "links to longer content, written copy, videos", "links to longer content, videos, written copy"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "84%", "gt": ["84%"]}
+{"predict": "31%", "gt": ["31%"]}
+{"predict": "49%", "gt": ["49%"]}
+{"predict": "55%", "gt": ["45%"]}
+{"predict": "male", "gt": ["male"]}
+{"predict": "male", "gt": ["male"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "9", "gt": ["9"]}
+{"predict": "Twitter", "gt": ["facebook"]}
+{"predict": "241 million", "gt": ["241 million"]}
+{"predict": "Google+", "gt": ["google+"]}
+{"predict": "Engineer", "gt": ["engineer"]}
+{"predict": "32%", "gt": ["32%", "32"]}
+{"predict": "30%", "gt": ["30%", "30"]}
+{"predict": "57%", "gt": ["57%", "57"]}
+{"predict": "Reddit", "gt": ["stumble upon"]}
+{"predict": "59%", "gt": ["59%", "59"]}
+{"predict": "74%", "gt": ["74%", "74"]}
+{"predict": "3", "gt": ["3"]}
+{"predict": "49%", "gt": ["49%", "49"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Internet/Digital", "gt": ["internet/digital"]}
+{"predict": "Spot TV", "gt": ["print"]}
+{"predict": "Social Network/Blogs", "gt": ["social network/blogs"]}
+{"predict": "6", "gt": ["5"]}
+{"predict": "6", "gt": ["8"]}
+{"predict": "5", "gt": ["6"]}
+{"predict": "By text", "gt": ["by text"]}
+{"predict": "77%", "gt": ["77%", "77"]}
+{"predict": "33%", "gt": ["22%", "22"]}
+{"predict": "Girls", "gt": ["girls"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "Phone", "gt": ["by phone", "phone"]}
+{"predict": "16", "gt": ["16"]}
+{"predict": "Jan", "gt": ["jan 2021"]}
+{"predict": "Old Spice", "gt": ["old spice"]}
+{"predict": "400%", "gt": ["400", "400%"]}
+{"predict": "Digital Influence Group", "gt": ["tgl ltd., toronto", "tgl ltd."]}
+{"predict": "Under Armour", "gt": ["under armour"]}
+{"predict": "Mar", "gt": ["may 2020"]}
+{"predict": "Apr", "gt": ["june 2020"]}
+{"predict": "2021", "gt": ["sep 2021"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "Direct Sourcing", "gt": ["direct sourcing"]}
+{"predict": "Clean up profiles", "gt": ["corporate website"]}
+{"predict": "conceptbaker", "gt": ["conceptbakery"]}
+{"predict": "$500,000", "gt": ["$500,000"]}
+{"predict": "4", "gt": ["5"]}
+{"predict": "8%", "gt": ["8"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "34", "gt": ["34"]}
+{"predict": "19%", "gt": ["19%"]}
+{"predict": "46%", "gt": ["46"]}
+{"predict": "7", "gt": ["7"]}
+{"predict": "Internal Transfers, Direct Sourcing", "gt": ["direct sourcing, internal transfers", "internal transfers, direct sourcing"]}
+{"predict": "27%", "gt": ["27%", "27"]}
+{"predict": "30%", "gt": ["30%", "30"]}
+{"predict": "22%", "gt": ["22%", "22"]}
+{"predict": "30%", "gt": ["30%", "30"]}
+{"predict": "Instagram", "gt": ["instagram"]}
+{"predict": "1.2%", "gt": ["1.2%"]}
+{"predict": "6", "gt": ["13", "12", "12.9"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "3%", "gt": ["3%", "3"]}
+{"predict": "Create a Content Bank", "gt": ["create a content bank"]}
+{"predict": "7", "gt": ["8"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "100 Thousand", "gt": ["100 thousand new tweets", "100 thousand"]}
+{"predict": "63%", "gt": ["63%"]}
+{"predict": "43%", "gt": ["43%"]}
+{"predict": "71%", "gt": ["71%"]}
+{"predict": "29%", "gt": ["29%"]}
+{"predict": "55%", "gt": ["55%"]}
+{"predict": "45%", "gt": ["45%"]}
+{"predict": "63%", "gt": ["63%"]}
+{"predict": "43%", "gt": ["43%"]}
+{"predict": "72%", "gt": ["49%"]}
+{"predict": "65%", "gt": ["65%"]}
+{"predict": "59%", "gt": ["59%"]}
+{"predict": "72%", "gt": ["72%"]}
+{"predict": "47%", "gt": ["47%", "47"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "36%", "gt": ["36", "36%"]}
+{"predict": "320 Million", "gt": ["320 million"]}
+{"predict": "76%", "gt": ["40%", "40"]}
+{"predict": "79%", "gt": ["71", "71%"]}
+{"predict": "YouTube", "gt": ["youtube"]}
+{"predict": "31%", "gt": ["29%", "29"]}
+{"predict": "Virus-Download", "gt": ["download my information tool", "download my information"]}
+{"predict": "28%", "gt": ["28%", "28"]}
+{"predict": "easy access to thought leadership or information that can't be found elsewhere", "gt": ["easy access to learning and professional development"]}
+{"predict": "400 Million", "gt": ["400 million"]}
+{"predict": "28%", "gt": ["28%", "28"]}
+{"predict": "Google+", "gt": ["google+"]}
+{"predict": "23%", "gt": ["23%", "23"]}
+{"predict": "4", "gt": ["5"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "1960", "gt": ["1960"]}
+{"predict": "71%", "gt": ["71", "71%"]}
+{"predict": "60%", "gt": ["76", "76%"]}
+{"predict": "60%", "gt": ["24%", "24"]}
+{"predict": "Bing", "gt": ["yahoo", "yahoo!"]}
+{"predict": "120", "gt": ["120", "120 friends"]}
+{"predict": "yellow", "gt": ["peach"]}
+{"predict": "Google", "gt": ["google"]}
+{"predict": "65 million", "gt": ["65 million"]}
+{"predict": "2.5 billion", "gt": ["2.5 billion"]}
+{"predict": "Peach", "gt": ["yellow"]}
+{"predict": "men", "gt": ["men"]}
+{"predict": "dark blue-green shade", "gt": ["dark blue-green shade", "dark blue-green"]}
+{"predict": "dark blue-green shade", "gt": ["white"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "YouTube", "gt": ["you tube"]}
+{"predict": "Public administration", "gt": ["public administration"]}
+{"predict": "2592.60", "gt": ["79,450,227,000"]}
+{"predict": "1.3 million", "gt": ["1.3 million"]}
+{"predict": "9%", "gt": ["9%", "9"]}
+{"predict": "30,645,000", "gt": ["30,645,000"]}
+{"predict": "67%", "gt": ["67%", "67"]}
+{"predict": "Germany", "gt": ["germany"]}
+{"predict": "54%", "gt": ["54%", "54"]}
+{"predict": "6", "gt": ["4"]}
+{"predict": "9", "gt": ["10"]}
+{"predict": "Influencer marketing", "gt": ["influencer marketing"]}
+{"predict": "42%", "gt": ["42%", "42"]}
+{"predict": "India", "gt": ["india"]}
+{"predict": "United States, Germany", "gt": ["germany, united states", "united states, germany"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "6", "gt": ["6"]}
+{"predict": "57", "gt": ["57", "57 employees"]}
+{"predict": "11", "gt": ["12"]}
+{"predict": "Create, Post, Influence", "gt": ["post, create, influence", "create, post, influence", "create, influence, post", "influence, create, post", "post, influence, create", "influence, post, create"]}
+{"predict": "340,000", "gt": ["340,000"]}
+{"predict": "5.6 Million", "gt": ["5.6 million"]}
+{"predict": "High engagement, high quality content, match your brand", "gt": ["high engagement, match your brand, high quality content", "high quality content, high engagement, match your brand", "high engagement, high quality content, match your brand", "high quality content, match your brand, high engagement", "match your brand, high engagement, high quality content", "match your brand, high quality content, high engagement"]}
+{"predict": "Monetarily and/or free samples", "gt": ["monetarily, free samples of a product", "free samples, monetarily", "monetarily, free samples", "free samples of a product, monetarily"]}
+{"predict": "20 employees", "gt": ["20", "20 employees"]}
+{"predict": "Sponsored blog post", "gt": ["sponsored blog post"]}
+{"predict": "2012", "gt": ["2012"]}
+{"predict": "1996", "gt": ["1996"]}
+{"predict": "Social sponsorship", "gt": ["social sponsorship"]}
+{"predict": "Increase", "gt": ["increase"]}
+{"predict": "decrease", "gt": ["decrease"]}
+{"predict": "Pinterest", "gt": ["pinterest"]}
+{"predict": "Vietnam, China, Romania", "gt": ["romania, vietnam, china", "vietnam, romania, china", "romania, china, vietnam", "china, romania, vietnam", "china, vietnam, romania", "vietnam, china, romania"]}
+{"predict": "30%", "gt": ["30%", "30"]}
+{"predict": "Egypt, Pakistan, Japan", "gt": ["pakistan, japan, egypt", "egypt, japan, pakistan", "japan, pakistan, egypt", "egypt, pakistan, japan", "japan, egypt, pakistan", "pakistan, egypt, japan"]}
+{"predict": "200", "gt": ["200"]}
+{"predict": "4+ BILLION", "gt": ["4+ billion"]}
+{"predict": "Ketnooi", "gt": ["ketnooi"]}
+{"predict": "208", "gt": ["208"]}
+{"predict": "400 MILLION", "gt": ["400 million"]}
+{"predict": "50%", "gt": ["50%", "50"]}
+{"predict": "Robin Williams' Death, 700K", "gt": ["ebola, 224k"]}
+{"predict": "25%", "gt": ["25%", "25"]}
+{"predict": "200-300", "gt": ["200-300"]}
+{"predict": "Malaysia Flight 370", "gt": ["malaysia flight 370"]}
+{"predict": "84%", "gt": ["84%", "84"]}
+{"predict": "March 4, 23K", "gt": ["march 4, 23k"]}
+{"predict": "Gaza conflict", "gt": ["gaza conflict"]}
+{"predict": "Ukrainian Crisis", "gt": ["gaza conflict"]}
+{"predict": "61%", "gt": ["61"]}
+{"predict": "28%", "gt": ["28"]}
+{"predict": "Haiti, Armenia, Egypt", "gt": ["armenia, egypt, haiti", "armenia, haiti, egypt", "haiti, armenia, egypt", "egypt, haiti, armenia", "haiti, egypt, armenia", "egypt, armenia, haiti"]}
+{"predict": "Lithuania, Bosnia, Georgia", "gt": ["lithuania, georgia, bosnia", "bosnia, georgia, lithuania", "bosnia, lithuania, georgia", "lithuania, bosnia, georgia", "georgia, bosnia, lithuania", "georgia, lithuania, bosnia"]}
+{"predict": "26%", "gt": ["26%", "26"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Georgia", "gt": ["georgia"]}
+{"predict": "18%", "gt": ["13%", "13"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "81%", "gt": ["81%", "81"]}
+{"predict": "18-29", "gt": ["18-29"]}
+{"predict": "78%", "gt": ["78%"]}
+{"predict": "65+", "gt": ["65+"]}
+{"predict": "72%", "gt": ["72%", "72"]}
+{"predict": "15%", "gt": ["15%", "15"]}
+{"predict": "40%", "gt": ["40%"]}
+{"predict": "27%", "gt": ["27%"]}
+{"predict": "1.40%", "gt": ["1.40%", "1.40"]}
+{"predict": "0.04%", "gt": ["0.04%", "0.04"]}
+{"predict": "16%", "gt": ["16%", "16"]}
+{"predict": "1.51%", "gt": ["1.51%", "1.51"]}
+{"predict": "$3", "gt": ["$3", "3"]}
+{"predict": "10.1%", "gt": ["10.1%", "10.1"]}
+{"predict": "$492bn", "gt": ["$492bn"]}
+{"predict": "58%", "gt": ["58%", "58"]}
+{"predict": "18.6%", "gt": ["18.6%", "18.6"]}
+{"predict": "Google", "gt": ["google"]}
+{"predict": "$.20", "gt": ["$.20"]}
+{"predict": "316 million", "gt": ["316 million", "316million"]}
+{"predict": "$2", "gt": ["$2"]}
+{"predict": "32%", "gt": ["32%", "32"]}
+{"predict": "44%", "gt": ["44%"]}
+{"predict": "46%", "gt": ["46%"]}
+{"predict": "2.13 Billion", "gt": ["2.13 billion"]}
+{"predict": "2004", "gt": ["2004"]}
+{"predict": "1.4 Billion", "gt": ["1.4 billion"]}
+{"predict": "48%", "gt": ["48%"]}
+{"predict": "300 Million", "gt": ["300 million"]}
+{"predict": "8 Billion", "gt": ["8 billion"]}
+{"predict": "17%", "gt": ["17%"]}
+{"predict": "Facebook", "gt": ["facebook"]}
+{"predict": "Facebook, YouTube, Instagram", "gt": ["instagram, facebook, youtube", "instagram, youtube, facebook", "youtube, instagram, facebook", "youtube, facebook, instagram", "facebook, youtube, instagram", "facebook, instagram, youtube"]}
+{"predict": "250 Million", "gt": ["250 million"]}
+{"predict": "WhatsApp", "gt": ["whatsapp"]}
+{"predict": "10 Million", "gt": ["10 million"]}
+{"predict": "Pinterest", "gt": ["tumblr"]}
+{"predict": "50,000", "gt": ["50,000"]}
+{"predict": "Periscope", "gt": ["periscope"]}
+{"predict": "Twitter", "gt": ["twitter"]}
+{"predict": "43%", "gt": ["43%", "43"]}
+{"predict": "56%", "gt": ["56%", "56"]}
+{"predict": "LinkedIn", "gt": ["linkedin"]}
+{"predict": "77%", "gt": ["77%", "77"]}
+{"predict": "3 Billion", "gt": ["3 billion"]}
+{"predict": "Periscope", "gt": ["snapchat"]}
+{"predict": "57%", "gt": ["57%", "57"]}
+{"predict": "175 million", "gt": ["175 million"]}
+{"predict": "100", "gt": ["100"]}
+{"predict": "43%", "gt": ["43%", "43"]}
+{"predict": "5", "gt": ["5"]}
+{"predict": "7%", "gt": ["7", "7%"]}
+{"predict": "76%", "gt": ["76", "76%"]}
+{"predict": "94%", "gt": ["94", "94%"]}
+{"predict": "6%", "gt": ["6", "6%"]}
+{"predict": "4", "gt": ["4"]}
+{"predict": "15%", "gt": ["15", "15%"]}
+{"predict": "24%", "gt": ["24", "24%"]}
+{"predict": "43%", "gt": ["43", "43%"]}
+{"predict": "12:00-6:00pm", "gt": ["12:00-6:00pm"]}
+{"predict": "14%", "gt": ["14", "14%"]}
+{"predict": "35%", "gt": ["35", "35%"]}
+{"predict": "33%", "gt": ["33%", "33"]}
+{"predict": "16%", "gt": ["16%", "16"]}
+{"predict": "2", "gt": ["2"]}
+{"predict": "2", "gt": ["4"]}
